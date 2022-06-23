@@ -47,7 +47,8 @@
   }
   
   .item-tag-item-tag > a {
-    text-decoration: underline var(--color-accent);
+    text-decoration: underline;
+    text-decoration-color:  var(--color-accent);
     text-decoration-thickness: 0.2em;
   }
   
