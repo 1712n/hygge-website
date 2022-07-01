@@ -5,9 +5,7 @@ linkTitle: github
 weight: -200
 ---
 
-{{< rawhtml >}}
-  <meta http-equiv="refresh" content="0; url=/github" />
-{{< /rawhtml >}}
+{{< redirect url="/github" >}}
 
 ![GitHub](/img/github/github.png)
 
