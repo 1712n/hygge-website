@@ -8,6 +8,8 @@ theme = "minimo"
 # disqusShortname = ""
 googleAnalytics = ""
 
+enableGitInfo = true
+
 Paginate = 25
 preserveTaxonomyNames = true
 
