@@ -1,0 +1,6 @@
+
+{{ if .IsNamedParams }}
+<meta http-equiv="refresh" content="0; url={{ .Get "url" }}" />
+{{ else }}
+<meta http-equiv="refresh" content="0; url={{ .Get 0 }}" />
+{{ end }}
