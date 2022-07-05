@@ -14,6 +14,7 @@ Hygge Companies hire certain types of people: [the selection process](https://hy
  
 In remote settings, Hygge employees have to learn to manage their resources and energy in a new way. This is why Hygge Companies adopt the concept of good daily sisu to keep their people going.
 
+{{< youtube 3ztwUOuPySg >}}
 
 ## What is Sisu?
 
