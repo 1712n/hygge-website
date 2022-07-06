@@ -17,4 +17,4 @@ Don’t expect to transfer the norms of co-located corporations into a work-from
 
 Experiment with different work environments. The more focused you are in your surroundings, the quicker you can accomplish your tasks and move on to important nonwork activities. Feel free to spend a month working on the beach sipping a Mai Thai, or whatever else makes you happy and productive.
 
-{{< youtube SDOO5ZraTF8 >}}
+{{< youtube -bcpOwKqCco >}}
