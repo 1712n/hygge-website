@@ -123,7 +123,7 @@ Collaborators can be individually added via username or team, their role can be 
 
 **_If an item cannot be seen_** on the project board, that means that the viewer may not have access to the originating repository. To view the item, make sure the viewer has all permissions necessary.
 
-[No access](/img/github/project-no-access.png)
+![No access](/img/github/project-no-access.png)
 
 ## Automation
 
@@ -140,7 +140,7 @@ Project boards also allow basic automation: change issue status once they are ad
 
 Under the options for the board, navigate to workflows to see and toggle default workflows. You can automatically add new issues/pull requests, reopen closed items, and even close a pull request the moment it is merged. The layout of each workflow follows this pattern: 
 
-[Workflows](/img/github/project-workflowd.png)
+![Workflows](/img/github/project-workflowd.png)
 
 Custom workflows will be available in the future.
 
