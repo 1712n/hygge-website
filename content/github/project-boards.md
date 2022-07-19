@@ -61,7 +61,7 @@ Classic project boards are able to be migrated to the beta format, however autom
 
 You can filter by keyword or by any field by using the filter bar within the view. Much of this will autofill for you and you will be able to select any values within a field if it is present in the board. Find the filter button right under the view tabs and select it to start applying filters.
 
-[Filtering](/img/github/project-filtering.webm)
+{{< video type="video/webm" preload="auto" src="/img/github/project-filtering.webm" >}}
 
 * Filtering by keyword can be done in plain text 
 * To exclude a query, add a “-” before the query 
@@ -79,7 +79,10 @@ You can filter by keyword or by any field by using the filter bar within the vie
 
 You can find the insights tab near the top right. Here, you can create new charts that visualize different fields that are in the project board. Different graph designs are provided, and you can optionally group by labels, repository, or status. A burn up/CFD chart will be provided automatically, which can also be edited to reflect different information.
 
-[Charting](/img/github/project-charting.webm)
+#### Charting
+
+{{< video type="video/webm" preload="auto" src="/img/github/project-charting.webm" >}}
+
 
 ### Managing Access & Permissions
 
