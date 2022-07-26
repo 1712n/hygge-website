@@ -22,9 +22,9 @@ Here is an [example of a challenge program](https://github.com/inca-digital/chal
 Bounty issues are the main building blocks of a challenge program and should:
 
 * target driven people in a way that demonstrates their abilities, creativity, and work mentality (this is crucial to identifying talented issue solvers early).
-* be explicit and  consist of clear tasks with defined metrics of successful completion while also providing the candidate with opportunities to go above and beyond if possible.
+* be explicit and consist of clear tasks with defined metrics of successful completion while also providing the candidate with opportunities to go above and beyond if possible.
 * produce useful results for the company and reduce our workload in some capacity.
-* not take much time from the team ( to accomplish or vet/use the finished results.
+* not take much time from the team to accomplish or vet/use the finished results.
 * not require an understanding of the company's internal systems or special access/permissions to complete.
 
 ### Issues Structure
