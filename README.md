@@ -3,7 +3,7 @@
 ## Pulling
 
 ```
-git clone git@github.com:1712n/hygge.git
+git clone git@github.com:1712n/hygge-website.git
 cd hygge
 git submodule update --recursive --init
 ```
