@@ -57,4 +57,16 @@ Among the most reliable criteria are the following:
 * Creativity: it is not only about fresh ideas but also about the way to apply them.
 * Task engagement: look at the solution options, data sources, and technologies used – how much effort was required to find and use these for the challenge?
 
-The challenge evaluation should not take lots of resources from you or your team, and the more objective facts the challenge results generate, the better you can understand the work approach of the candidate. For example, “unit test coverage,” “algorithmic complexity,” and “corner cases handled” are facts. Based on these, it is easy to compare different solutions, come up with thoughtful interview questions, and eventually make reasonable hiring decisions. 
+The challenge evaluation should not take lots of resources from you or your team, and the more objective facts the challenge results generate, the better you can understand the work approach of the candidate. For example, “unit test coverage,” “algorithmic complexity,” and “corner cases handled” are facts. Based on these, it is easy to compare different solutions, come up with thoughtful interview questions, and eventually make reasonable hiring decisions.
+
+### Complex challenge tasks
+
+Sometimes, you can't come up with a simple task that can be solved in a reasonable amount of time. Other times, it's difficult to describe the deliverable in details and anticipate all possible questions the challenge participants might have. Here are some ideas that can help you in those situations.
+
+#### Provide a submission example
+
+No matter how well you describe the task and how long your FAQ list is, people will have questions. Most of these questions, however, can easily be addressed by proving an example of a successful submission. Not only it will help people understand what is enough, but it will also highlight those who went above and beyond of what is expected of them. Check out [this issue's description](https://github.com/1712n/challenge/issues/58) to see how examples can make a difference for people working on a challenge task.
+
+#### Improve instead of building from scratch
+
+Let's say you want to find someone capable of designing systems, but such a task takes time, requires well-defined technical requirements, and usually involves a lot of back-and-forward with the customer. Evaluating submissions can also be difficult, since everyone has their own tool sets and technology preferences, requiring even a better expert to evaluate the submissions. To address these problems, try asking the challenge participants to improve the existing design instead. Most likely, you already know the weak spots that need to be addressed and can quickly dismiss submissions that overlook them. Here's a good [example of such a challenge](https://github.com/1712n/challenge/issues/64).
