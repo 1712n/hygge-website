@@ -38,7 +38,7 @@ Each issue requires the following parts:
 ### How to Build Your Challenge
 
 **Step 1. Define the task.**
-The challenge should be based on a real job. If it is a new position, start with job analysis: the knowledge, skills, and abilities necessary for the role. Otherwise, run through the current work tasks of your team. Check your team’s open and closed issues to collect ideas for the challenge. From these tasks, cut out everything that is too complicated and cannot be completed in several hours of work. You might also want to simplify one of the current issues for the challenge or break it down into smaller pieces that would be workable for the candidates. The more specific and unique your challenge is, the better the selection of results it will bring.
+The challenge should be based on a real job. If it is a new position, start with job analysis: the knowledge, skills, and abilities necessary for the role. Otherwise, run through the current work tasks of your team. Check your team’s open and closed issues to collect ideas for the challenge. From these tasks, cut out everything that is too complicated and cannot be completed in several hours of work. You might also want to simplify one of the current issues for the challenge or break it down into smaller pieces that would be workable for the candidates. The more specific and unique your challenge is, the better the selection of results it will bring. If you struggle to simplify the tasks, have a look at the [complex challenge tasks](https://hygge.work/growing/challenge-program/#complex-challenge-tasks) design strategies. 
 
 Most often, there are 3 types of candidates:
 1. Those who already have experience with the technologies in your challenge;
