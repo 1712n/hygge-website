@@ -15,7 +15,9 @@ tags:
 
 The challenge program is a perfect tool for discovering hidden talent by autonomously vetting potential employees and interns at the start of the hiring process.  The program consists of issues that can be solved without any access to company resources and require the participants to manage their own work. Such projects give interested individuals a chance to prove themselves, learn a bit about the company and products, and produce useful results in the process. In addition, it allows companies to suggest a better fit for candidates based on their challenge results.
 
-Here is an [example of a challenge program](https://link.hygge.work/challenge-program) developed by [BlockShop](https://link.hygge.work/blockshop).
+Watch the video where Maya describes an [example of a challenge program](https://link.hygge.work/challenge-program) developed by [BlockShop](https://link.hygge.work/blockshop).
+
+{{< youtube VifBWe_cyz4 >}}
 
 ### Bounty Issues
 
