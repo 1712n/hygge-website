@@ -40,7 +40,7 @@ This might be counterintuitive, but the receiver is in charge of feedback. Theyâ
 3. **Reflect, accept or discard.** Take time to consider what you've heard and think of an action. Feedback is often subjective, and you are not required to follow it. Say "thank you" with sincerity and, if you are in doubt about further action, elicit feedback on the matter from other people.
 
 
-f you master the art of receiving feedback, you can accelerate your own development. Find more tips in [this article](https://qz.com/work/1086444/).
+If you master the art of receiving feedback, you can accelerate your own development. Find more tips in [this article](https://qz.com/work/1086444/).
 
 ## Couldn't help being defensive?
 Events are neither negative nor positive. Your belief about how the event affects you is what matters. When you view a situation as an attack, you will become defensive, which may cause negative consequences.
