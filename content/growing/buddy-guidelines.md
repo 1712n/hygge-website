@@ -18,6 +18,9 @@ Visiting another country or hiking an unknown trail all by yourself definitely h
 
 The same is when you join a new team. A new employee’s onboarding experience is greatly enhanced by buddy who acts as a local guide. It is a person to show around, share advice regarding day-to-day work at Hygge company. Buddy may also provide support and encouragement, as it would help to introduce new employee to organizational culture. Having efficient onboarding process can have long-term benefits, including better team member retention, engagement, and higher productivity.
 
+{{< youtube RzVoPCxnG6I >}}
+
+
 **Buddy checklist**:
 
 - Learn the job responsibilities of a newcomer, including the systems and accesses they would need. You can always refer to a hiring manager to confirm it. To make sure that you didn't forget anything, use Buddy's onboarding issue template.
