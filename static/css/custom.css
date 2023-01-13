@@ -208,6 +208,12 @@
   /* color: var(--color-accent); */
 }
 
+.footer-content > a {
+  text-decoration: underline;
+  font-style: normal;
+}
+
+
 .footer-content > .links svg {
   width: 20px;
   height: 20px;
