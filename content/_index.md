@@ -1,5 +1,6 @@
 ---
 title: 'About'
+authors: ["asya-isakova"]
 menu:
   - main
 weight: -370
