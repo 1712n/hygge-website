@@ -1,0 +1,14 @@
+id = "asya"
+
+# [email]
+# username = "asya"
+# host = "inca.digital"
+
+[name]
+display = "Asya Isakova"
+
+[social]
+# email = ""
+# facebook  = ""
+twitter = ""
+github = "asyaisakova"
