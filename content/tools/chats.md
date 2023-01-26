@@ -1,6 +1,6 @@
 ---
 title: 'Corporate chats'
-authors: ["asya-isakova"]
+authors: ["asya"]
 date: 2022-04-22T12:00:00Z
 menu:
   sidebar:

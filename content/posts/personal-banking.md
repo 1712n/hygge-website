@@ -1,6 +1,6 @@
 ---
 title: 'Personal Banking'
-authors: ["asya-isakova"]
+authors: ["asya"]
 date: 2022-04-10T12:00:00Z
 tags:
   - 'first steps'

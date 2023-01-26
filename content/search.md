@@ -1,6 +1,6 @@
 ---
 title: "Search Results"
-authors: ["asya-isakova"]
+authors: ["asya"]
 sitemap:
   priority : 0.1
 layout: "search"
