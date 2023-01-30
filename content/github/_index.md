@@ -8,6 +8,8 @@ menu:
     identifier: github
 weight: -200
 slug: github
+aliases:
+  - tools/github
 ---
 
 ![GitHub](/img/github/github.png)
