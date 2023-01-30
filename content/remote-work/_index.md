@@ -1,5 +1,6 @@
 ---
 title: Remote Work
+authors: ["asya"]
 date: 2022-03-21T12:00:00Z
 linkTitle: Remote Work
 menu:

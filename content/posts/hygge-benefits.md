@@ -1,5 +1,6 @@
 ---
 title: 'Inca Digital Benefits and Perks'
+authors: ["asya"]
 date: 2022-03-10T12:00:00Z
 tags:
   - 'Inca Digital'
