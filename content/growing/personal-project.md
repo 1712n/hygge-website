@@ -1,6 +1,6 @@
 ---
 title: 'Personal Project'
-authors: ["asya"]
+authors: ["yana", "asya"]
 date: 2022-04-13T12:00:00Z
 menu:
   sidebar:
