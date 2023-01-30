@@ -1,6 +1,6 @@
 ---
 title: 'Pull Requests'
-authors: ["asya"]
+authors: ["marina", "inga"]
 date: 2022-03-10T12:00:00Z
 menu:
   sidebar:
