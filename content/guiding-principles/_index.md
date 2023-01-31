@@ -8,7 +8,6 @@ weight: -170
 tags:
   - 'first steps'
   - leading
-
 ---
 
 ## Take the initiative
