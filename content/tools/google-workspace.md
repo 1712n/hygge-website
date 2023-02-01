@@ -14,11 +14,11 @@ tags:
 
 ![Google workspace](/img/tools/google.png)
 
-Google Workspace is the professional version of Gmail, Calendar, Meet, Docs, Team Drive, and much more. A corporate Google account not only grants access to that whole ecosystem but also serves as the key to other web applications. The world where you needed to create separate accounts with unique passwords for each application is fading away. It is being replaced with Google and other identity providers that handle your credentials and enforce company-wide policies on application access. Use Sign-in with Google feature when creating 3rd party website accounts to stay safe and to not having to remember another password.
+Google Workspace is the professional version of Gmail, Calendar, Meet, Docs, Team Drive, and much more. It provides great functionality that covers Hygge companies' need in access management, planning and working. A corporate Google account not only grants access to that whole ecosystem but also serves as the key to other web applications. The world where you needed to create separate accounts with unique passwords for each application is fading away. It is being replaced with Google and other identity providers that handle your credentials and enforce company-wide policies on application access. Use Sign-in with Google feature when creating 3rd party website accounts to stay safe and to not having to remember another password.
 
 # Gmail
 
-Your Gmail-account is the key to Google Workspace. We don't use emails to communicate inside the company, keeping the conversations on GitHub when possible. 
+In Hygge Companies, your Gmail-account is the key to Google Workspace. We don't use emails to communicate inside the company, keeping the conversations on GitHub when possible. 
 
 Emails are used mainly to talk to people outside the company. Always use "Reply all" option to be sure you do not exclude anyone from the conversation.
 For all public email addresses and subscriptions, it's always a good idea to set up Google Groups with team-specific addresses (e.g., hiring@mycompany.com or finance.department@mycompany.com). They allow incoming mail to be forwarded to all group members. Don’t forget to CC those addresses when replying to these emails or communicating externally on behalf of your team. Reach out to group owners or Google Workspace admins if you need to be added to a group.
@@ -31,7 +31,7 @@ For all public email addresses and subscriptions, it's always a good idea to set
 
 For those rare occasions when [GitHub](https://hygge.work/github/) isn’t enough, there’s Google Meet for video calls. You can find a link to join a Meet call in almost all Google Calendar event descriptions.  Don’t forget to record any important decisions and do-outs in the corresponding [GitHub issues](https://hygge.work/github/issue-tracker/#issues) after the call.
 
-In Hygge companies, all work meetings/calls are optional. The regular team calls mostly serve team-building purposes. Leverage nonwork calls and be intentional about informal communication. In remote settings, it’s important to manage your isolation and mental health, so don’t be shy to leverage those calls when appropriate to get some face time and boost morale. Yes, people want to see your pet, say "Hi" to your partner, and know a little more about that painting on your wall. Be intentional about informal communication.
+In Hygge companies, all work meetings/calls are optional. The regular team calls mostly serve team-building purposes. Leverage nonwork calls and be intentional about informal communication. In remote settings, it’s important to manage your isolation and mental health, so don’t be shy to use those calls when appropriate to get some face time and boost morale. Yes, people want to see your pet, say "Hi" to your partner, and know a little more about that painting on your wall. Be intentional about informal communication.
 
 Apart from team-building purposes, there is a limited number of scenarios where synchronous communication is a better option. Clearing things up when you are blocked, brainstorming, learning (e.g. peer coding) and discussing particularly difficult issues where an understanding can’t be reached online are among them. However, before scheduling a call, consider these tradeoffs:
 1. Video calls hold your whole attention and leave no opportunity to optimize your work tasks.
