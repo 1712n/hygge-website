@@ -13,6 +13,10 @@ One of the most efficient ways to make Hygge Companies' people feel cozy and car
 
 Looking through the bright pictures from a company retreat, you might feel that there's nothing easier than arranging a trip for your team. You just choose an appealing spot by the sea, book the flights, and here you are: enjoying the time together. However, when you have more than 10 people in a team, things get complicated. 
 
+# Flights and rides
+
+When it comes to travelling, everyone has personal preferences. To manage the booking workload, consder onboarding a travel management provider, e.g. [TravelPerk](https://www.travelperk.com/), [FlightFox](https://flightfox.com/) or [Kayak Business](https://www.kayak.com/business). Before choosing the best fit for your team, check the rates, flexibility policies, concierge service and SSO options. Our vote goes for those that help with Airbnb and provide various travel options, including car rent and train tickets booking.  
+
 # Location
 Good news: appealing spot by the sea will do. Bad news: you have to consider entry requirements (e.g. visas), flights length and price, seasonal features, things to do, lodging options and others.
 
@@ -25,7 +29,7 @@ One of the best options that works really well for small teams up to 30 people, 
 Central venue quality criteria:
 - **Space.** There should be a huge living room with a welcoming sofa, large dining table, and a number of tiny cozy angles where your lovely introverts would be able to snuggle with their lovely laptops. Instagrammable view and catchy design are the advantages. 
 - **Area.** In our experience, you can encounter spacious venues either in downtown of big cities or in the middle of nowhere. Both options might work or not for your particular team. While megapolis give you a plenty of activities and eating-out options, deliveries and easy commuting, isolated houses in the wilds will provide a chance to spend time closer to each other and bring retreat vibes (together with rent-a-car/find-a-driver quests). Make sure there are other lodging options nearby for those who wouldn't get a bedroom in the central venue.
-- **Bedrooms** Dont get carried away with big beautiful apartments. In our experience 3 bedroom is a perfect numbr for apartment. We don't want to turn it into a dorm, right? 
+- **Bedrooms** Don't get carried away with big beautiful apartments. In our experience 3 bedrooms are perfect for a central venue. This way you'll have a spacious place with hosts without turning it into a dorm. 
 - **Internet.** Workation concept assumes that your team will spend some time working together while staying at the central venue. [Wireless travel repeater](https://www.amazon.com/GL-iNet-GL-MT1300-Wireless-Pocket-Sized-Repeater/dp/B08MKZXGBY/) will help to enhance the connection. 
 - **Dishwasher.** Golden rule: wherever you are, your place should have a dishwasher. Just write it down. 
 
