@@ -1,22 +1,22 @@
-<li class='item'>
-  
+<li class="item">
   <div class="item-tag">
-      <a href='{{ .Permalink | relURL }}'>
-        {{ if .Content -}}
+      <a href="{{ .Permalink | relURL }}">
+        {{ $img := "/img/no-cover.jpg" }}
+
+        {{ with .Params.cover.image }}
+          {{ $img = . }}
+        {{ else }}
           {{ $urls := findRE "<img src=\"[^\"|\\\"]*\"" .Content -}}
           {{ $url := index ($urls) 0 }}
           {{ if $url }}
-
             {{ $url := (strings.TrimPrefix "<img src=\"" $url) -}}
-            {{ $url := strings.TrimSuffix "\"" $url -}}
-            {{ $url := safeHTMLAttr $url }}
-            {{ printf "<div class=\"item-tag-image\" style=\"background-image: url(%s);\">" $url | safeHTML }}
-          {{ else }}
-            <div class="item-tag-image">
+            {{ $img = strings.TrimSuffix "\"" $url -}}
           {{ end }}
-        {{ end -}}
-      </div>
+        {{ end }}
+
+        <img class="item-tag-image" src="{{ $img }}" alt="Destination cover image">
     </a>
+
     <div class="item-tag-description">
       <header class='item-header'>
         <div>
