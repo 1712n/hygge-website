@@ -8,14 +8,12 @@
     margin-bottom: 30px;
   }
   
-  .item-tag-image{
+  .item-tag-image {
     width: 100%;
     max-width: 400px;
     min-width: 400px;
     height: 200px;
-    background-size: cover;
-    background-position: center;
-    background-image: url(/img/no-cover.jpg);
+    object-fit: cover;
   }
   
   .item-header > div {
