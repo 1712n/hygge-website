@@ -1,5 +1,5 @@
 ---
-title: 'Project Boards'
+title: "Project Boards"
 authors: ["marina"]
 date: 2022-03-21T12:00:00Z
 menu:
@@ -17,26 +17,26 @@ tags:
 
 Project boards is a managing tool to improve visibility of the work progress. All GitHub projects are located on the organisational level. Use spreadsheets view (Beta Boards) for Team Projects and kanban view for Personal Projects.
 
-# Project Team Boards 
+# Project Team Boards
 
 The new Github Projects connect your planning directly to the work your teams are doing, and flexibly adapt to whatever your team needs at any point. Built like a spreadsheet, project tables give you a live canvas to filter, sort, and group issues and pull requests. You can use it, or the accompanying project board, along with custom fields to track team work across multiple repos, build and visualize content creation workflow, or even as a powerful sales CRM.
 
 ## Building the board
 
-The project board can be assembled in multiple ways: 
+The project board can be assembled in multiple ways:
 
-* Adding existing issues and pull requests from a selected repository
-* Adding new fields, showing, and hiding them on different views
-    * Potential fields: due dates, text notes, issue types to enable better filtering
-* Adding new views (don’t forget to save your changes, there is no autosave)
-* Filter, group, and sort issues by using labels, repos, assignees, custom fields, and/or keywords
+- Adding existing issues and pull requests from a selected repository
+- Adding new fields, showing, and hiding them on different views
+  - Potential fields: due dates, text notes, issue types to enable better filtering
+- Adding new views (don’t forget to save your changes, there is no autosave)
+- Filter, group, and sort issues by using labels, repos, assignees, custom fields, and/or keywords
 
 Project boards can also have extra information added in either the project board description and README file. You can,
 
-* Describe the purpose of the project
-* Include relevant external information and contact details for specific people
-* Describe format of the board and different views 
-* Use markdown to format README, include images and advanced formatting
+- Describe the purpose of the project
+- Include relevant external information and contact details for specific people
+- Describe format of the board and different views
+- Use markdown to format README, include images and advanced formatting
 
 ### Project Migration
 
@@ -44,19 +44,19 @@ Classic project boards are able to be migrated to the beta format, however autom
 
 ### <span style="text-decoration:underline;">Tips:</span>
 
-* Board views can be built from any custom field
-* Manage board visibility and access in case there is sensitive information present
-* Maintain a single source of truth 
-    * Prevent information and issues from getting out of sync by keeping info in one location when possible (e.g. issue due dates) 
-* Add project to quick access for convenience
+- Board views can be built from any custom field
+- Manage board visibility and access in case there is sensitive information present
+- Maintain a single source of truth
+  - Prevent information and issues from getting out of sync by keeping info in one location when possible (e.g. issue due dates)
+- Add project to quick access for convenience
 
 ## Working with the board
 
-* The beta project board will automatically add any issues or pull requests in a selected repo. Views with multiple repositories will also automate depending on filters. 
-* Side panel allows you to open issues within the board without leaving the page
-* Issues can be created from within the board by creating issue drafts or converting from within the side panel
-* The insights tab (top right corner), can visualize any fields within the board (e.g. issue status, assignee, labels, etc.)
-* If automation is not an option, Issues can be added manually from within the repo or from another repo
+- The beta project board will automatically add any issues or pull requests in a selected repo. Views with multiple repositories will also automate depending on filters.
+- Side panel allows you to open issues within the board without leaving the page
+- Issues can be created from within the board by creating issue drafts or converting from within the side panel
+- The insights tab (top right corner), can visualize any fields within the board (e.g. issue status, assignee, labels, etc.)
+- If automation is not an option, Issues can be added manually from within the repo or from another repo
 
 ### Filtering
 
@@ -64,17 +64,17 @@ You can filter by keyword or by any field by using the filter bar within the vie
 
 {{< video type="video/webm" preload="auto" src="/img/github/project-filtering.webm" >}}
 
-* Filtering by keyword can be done in plain text 
-* To exclude a query, add a “-” before the query 
-* Separate issues from pull requests, drafts, or other states by using “is:”
-    * Ex. “is: issue”, “is: merged”
-* To filter by issue status, use “status:“ 
-* Use “label:” to query specific labels
-* Select either one or multiple repositories using “repo:”
-* You can filter on the absence of something using “no:”
-    * Ex. filter any issues without assignees by using “no:assignee”
-* Multiple fields can be used at the same time when they’re separated by a space
-    * Ex. To find open issues labeled stale that don’t have an assignee, use “label:stale status:open no:assignee”
+- Filtering by keyword can be done in plain text
+- To exclude a query, add a “-” before the query
+- Separate issues from pull requests, drafts, or other states by using “is:”
+  - Ex. “is: issue”, “is: merged”
+- To filter by issue status, use “status:“
+- Use “label:” to query specific labels
+- Select either one or multiple repositories using “repo:”
+- You can filter on the absence of something using “no:”
+  - Ex. filter any issues without assignees by using “no:assignee”
+- Multiple fields can be used at the same time when they’re separated by a space
+  - Ex. To find open issues labeled stale that don’t have an assignee, use “label:stale status:open no:assignee”
 
 ### Insights
 
@@ -84,10 +84,9 @@ You can find the insights tab near the top right. Here, you can create new chart
 
 {{< video type="video/webm" preload="auto" src="/img/github/project-charting.webm" >}}
 
-
 ### Managing Access & Permissions
 
-Under settings, there is a section to “Manage access” for the board. This presents the option of having a public or private board while also being able to set the base role. The base role will determine whether or not other Inca employees will be able to view the contents of the board, regardless of Public or Private visibility. Boards should be kept private since public boards can be viewed by anyone on the internet. 
+Under settings, there is a section to “Manage access” for the board. This presents the option of having a public or private board while also being able to set the base role. The base role will determine whether or not other Inca employees will be able to view the contents of the board, regardless of Public or Private visibility. Boards should be kept private since public boards can be viewed by anyone on the internet.
 
 <table>
   <tr>
@@ -120,7 +119,7 @@ Under settings, there is a section to “Manage access” for the board. This pr
   </tr>
 </table>
 
-Collaborators can be individually added via username or team, their role can be determined before sending them an invite. Roles can also be changed among existing collaborators as well. 
+Collaborators can be individually added via username or team, their role can be determined before sending them an invite. Roles can also be changed among existing collaborators as well.
 
 **_If an item cannot be seen_** on the project board, that means that the viewer may not have access to the originating repository. To view the item, make sure the viewer has all permissions necessary.
 
@@ -130,16 +129,16 @@ Collaborators can be individually added via username or team, their role can be 
 
 Marketplace provides [solutions](https://github.com/marketplace/actions/project-beta-automations) to automate issues triage. You can use actions that do that based on issue features:
 
-* Repository
-    * All issues from one repo go to one board 
-* Specific labels
-    * Issues in common repositories with a team label will go to that team’s board
+- Repository
+  - All issues from one repo go to one board
+- Specific labels
+  - Issues in common repositories with a team label will go to that team’s board
 
 Project boards also allow basic automation: change issue status once they are added, reopened, or closed
 
 ### Using workflows
 
-Under the options for the board, navigate to workflows to see and toggle default workflows. You can automatically add new issues/pull requests, reopen closed items, and even close a pull request the moment it is merged. The layout of each workflow follows this pattern: 
+Under the options for the board, navigate to workflows to see and toggle default workflows. You can automatically add new issues/pull requests, reopen closed items, and even close a pull request the moment it is merged. The layout of each workflow follows this pattern:
 
 ![Workflows](/img/github/project-workflowd.png)
 
@@ -159,28 +158,29 @@ Beta project boards can be used in different ways depending on the nature of you
 
 <span style="text-decoration:underline;">Tech Team Board</span>
 
-* Add issues and pull requests from multiple repositories, Github allows linking up to 25 repositories 
-* Use the status field instead of status label for easier filtering
-* Rather than use priority label, manually order cards within board view
-* Special columns or views for difficult issues, which can be discussed regularly
-* Use repos to filter into sub-team views
-* Track the workload of team members by grouping issues by assignee, or creating individual views
-* Create new issues in different repositories within the project board by choosing the repo from the dropdown list
-* Set and sort by due dates
+- Add issues and pull requests from multiple repositories, Github allows linking up to 25 repositories
+- Use the status field instead of status label for easier filtering
+- Rather than use priority label, manually order cards within board view
+- Special columns or views for difficult issues, which can be discussed regularly
+- Use repos to filter into sub-team views
+- Track the workload of team members by grouping issues by assignee, or creating individual views
+- Create new issues in different repositories within the project board by choosing the repo from the dropdown list
+- Set and sort by due dates
 
 <span style="text-decoration:underline;">Business Team Board</span>
 
-* Powerful spreadsheet for high level overview of sales pipeline
-* Separate views for different issue types and labels
-    * relationship trackers vs. actionable tasks, active clients vs. leads, high priority vs. low priority
-* Don’t lose any ideas with quick draft issues
-* Create text notes for issues
-* Update issues from within the board by using the side panel
-* Generate insights to see progress of milestones and other issues
-* Iteration fields can be used to schedule work or create a timeline 
-* Use manual fields to create custom fields to filter for specific projects
+- Powerful spreadsheet for high level overview of sales pipeline
+- Separate views for different issue types and labels
+  - relationship trackers vs. actionable tasks, active clients vs. leads, high priority vs. low priority
+- Don’t lose any ideas with quick draft issues
+- Create text notes for issues
+- Update issues from within the board by using the side panel
+- Generate insights to see progress of milestones and other issues
+- Iteration fields can be used to schedule work or create a timeline
+- Use manual fields to create custom fields to filter for specific projects
 
 ## Personal Project Boards
+
 Personal Boards are there to keep and organize your tasks. Each person is in charge of their own board with collaboration of team manager. You can adjust the layout - add your column for specific topics if needed, but don’t forget to prioritize - make sure to keep the clear distinction between high and low priority issues. You can discuss issues priority with your team lead/manager.
 
 ![image](/img/github/personal-project-board.png)
@@ -188,8 +188,10 @@ Personal Boards are there to keep and organize your tasks. Each person is in cha
 Issues are added manually to the personal project board, make sure you always transfer your issues. Once you are assigned to an issue, [add it to your project](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/tracking-work-with-project-boards/adding-issues-and-pull-requests-to-a-project-board).
 
 **Tip:** You can also add other issues, discussions, even project boards - anything you are interested in following directly from the project column. Simply copy and paste the links and add a new project card. Project cards support GitHub Markdown, feel free to create lists, hyperlinks, use bold/italics, etc.
-___
+
+---
+
 ### Useful links:
 
-* [Github Documentation](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/quickstart)
-* [Github Blog](https://github.blog/?s=projects)
+- [Github Documentation](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/quickstart)
+- [Github Blog](https://github.blog/?s=projects)

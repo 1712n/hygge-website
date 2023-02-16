@@ -1,5 +1,5 @@
 ---
-title: 'Issue Tracker'
+title: "Issue Tracker"
 authors: ["marina"]
 date: 2022-03-21T12:00:00Z
 menu:
@@ -10,7 +10,7 @@ tags:
   - collaboration
   - tools
   - GitHub
-  - 'first steps'
+  - "first steps"
 ---
 
 ![Issue tracker](/img/github/issue-tracker.png)
@@ -29,8 +29,8 @@ Issues are a core part of both tech and business development. Always create an i
 
 - When writing to your colleagues, be precise, and word your messages in the clearest way possible.
 - Add brief description with necessary steps to close the issue, relevant links to support what you’re trying to say, associated issues and an estimated due date.
-- Assignee. It's okay to have multiple people involved in the issue, but pick one assignee, who will act as the lead person. @ other relevant people in the issue description and clearly state their role. Avoid [SWAT](https://hygge.work/guiding-principles/#:~:text=vs%20Police%20Officers-,SWAT,-teams%20show%20up)ing. 
-- Relevant labels and milestones. To keep the order in your repos we suggest using mandatory labels like status, priority, type of issue, team. 
+- Assignee. It's okay to have multiple people involved in the issue, but pick one assignee, who will act as the lead person. @ other relevant people in the issue description and clearly state their role. Avoid [SWAT](https://hygge.work/guiding-principles/#:~:text=vs%20Police%20Officers-,SWAT,-teams%20show%20up)ing.
+- Relevant labels and milestones. To keep the order in your repos we suggest using mandatory labels like status, priority, type of issue, team.
 - For managers and people involved in the task, make sure it is also added to your/their project board.
 
 ### Update your issues
@@ -48,15 +48,14 @@ Make sure to update your issues with:
 - Questions or clarifications (tell people if you are stuck or unsure of how to proceed)
 - Labels, assignee, or steps
 
-**Do not leave issues idle** for a long time; they should be actionable and realistic. Keep them updated, however small the progress is. Every time you do something, successfully or not, leave a quick comment for others to see progress or the lack of thereof. If you just want to have a brainstorming issue and don't attach it to any active client or a milestone, GitHub has Discussion tab for you to use. 
+**Do not leave issues idle** for a long time; they should be actionable and realistic. Keep them updated, however small the progress is. Every time you do something, successfully or not, leave a quick comment for others to see progress or the lack of thereof. If you just want to have a brainstorming issue and don't attach it to any active client or a milestone, GitHub has Discussion tab for you to use.
 
-| 📝 Issues | 💬 Discussions|
-| ----- | ------------- |
-| Actionable tasks with clear deliverables | Ideas you want to discuss before implementing them/brainstorming|
-| Elaborate plan of action/Functional requirements| Asking questions|
-| Specific deadline| Collecting feedback|
-| One assignee responsible for result | Announcements|
-
+| 📝 Issues                                        | 💬 Discussions                                                   |
+| ------------------------------------------------ | ---------------------------------------------------------------- |
+| Actionable tasks with clear deliverables         | Ideas you want to discuss before implementing them/brainstorming |
+| Elaborate plan of action/Functional requirements | Asking questions                                                 |
+| Specific deadline                                | Collecting feedback                                              |
+| One assignee responsible for result              | Announcements                                                    |
 
 If you are assigned to an issue but don't have time to work on it, **ask for help**, add `status - on hold` tag, or assign it to someone else. If you don't have time to do something let people know instead of having it linger. You can use the text: "I have other priorities and can't help with this" or "I can complete this on May 25, please let me know if that is OK".
 

@@ -1,5 +1,5 @@
 ---
-title: 'Async'
+title: "Async"
 authors: ["asya", "ev"]
 date: 2022-03-21T12:00:00Z
 menu:
@@ -9,9 +9,9 @@ weight: -170
 tags:
   - feedback
   - communication
-  - 'first steps'
+  - "first steps"
   - leading
-  - 'HR processes'
+  - "HR processes"
 ---
 
 ![Async](/img/communication/async.png)
@@ -19,8 +19,6 @@ tags:
 To get things done, Hygge Companies rely on detailed documentation and atomic iterations that are visible to everyone through issue trackers like GitHub. Mastering this asynchronous workflow is vital to avoiding dysfunction. This is why Hygge companies prefer [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) to chats and video calls. This also means that employees need to ensure that all conclusions made during offline conversations are recorded in GitHub, so that everyone at any time can follow your thought process.
 
 {{< youtube muZdsTG0EeY >}}
-
-
 
 Although there's no office to go to, that doesn't mean you should disappear or work alone in your corner. Make sure you commit to GitHub every day. This is the only way others can follow your work. Even if you didn't achieve anything substantive, add a note summarizing what you've been working on. GitHub repositories and issue trackers are transparent by default, so other team members will be more willing to help you if they see you doing useful work. If people see no updates from you over the past 24 hours, they will assume you took a day off.
 
