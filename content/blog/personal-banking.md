@@ -6,7 +6,6 @@ tags:
   - 'first steps'
 cover:
   image: /img/personal-banking/island-map.png
-  style: full
 ---
 
 Hygge Companies view their employees as responsible adults who can manage not only their work, but also their money. Recent advancements in financial technology brought alternatives to the traditional consumer banking landscape. One way to visualize the key elements of this landscape is imagining a map of interconnected islands where legacy cash-based world borders gen Z contactless payment communities. Although much more complex in reality, this map gives general overview of basic services you can use to receive, store, and spend money anywhere in the world.
