@@ -3,7 +3,7 @@ title: 'About'
 authors: ["asya"]
 menu:
   - main
-weight: -370
+weight: 10
 cover:
   image: /img/asya.jpg
   style: full
