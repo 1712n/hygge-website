@@ -1,7 +1,8 @@
 # Hygge Website
 
-## Run locally
-### Clone repository and pull submodules
+Hygge Workbook hosted at [hygge.work](https://hygge.work/). Generated with [Hugo](https://gohugo.io/) and [Minimo theme](https://github.com/MunifTanjim/minimo).
+
+## Setup
 
 ```sh
 git clone git@github.com:1712n/hygge-website.git
@@ -9,14 +10,10 @@ cd hygge-website
 git submodule update --recursive --init
 ```
 
-### Serve locally
-```sh
-hugo serve
-```
-Visit [localhost:1313](http://localhost:1313)
-
 ## FAQ
+
 ### I want to add content
+
 First is important to understand [Hugo content structure](https://gohugobrasil.netlify.app/content-management/organization/).
 
 - New posts and pages go on `content/`
@@ -24,4 +21,5 @@ First is important to understand [Hugo content structure](https://gohugobrasil.n
 - But preferably use [page bundles](https://gohugo.io/content-management/page-bundles/) as it's the best way to organize and work with resources in Hugo. A page bundle is basically grouping the content and resources of page under the same folder at `content`. Check this [example](https://github.com/1712n/inca-website/tree/main/content/intelligence/pig-butchering)
 
 ### I want to modify the site
+
 Don't touch `themes/minimo`. If you want to customize the theme do so via overrides on the project dir as those have [precedence over themes](https://gohugo.io/hugo-modules/theme-components/).
