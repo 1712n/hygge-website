@@ -18,3 +18,11 @@ package-lock.json
 # Vendor
 *vendor/
 themes/
+
+# Temp
+# remove after #90 merge 
+layouts/_default/lirecent.html
+
+# can't refactor without refactoring theme
+# can't ignore line due to upstream bug
+layouts/partials/footer.html
