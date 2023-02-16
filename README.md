@@ -4,11 +4,7 @@ Hygge Workbook hosted at [hygge.work](https://hygge.work/). Generated with [Hugo
 
 ## Setup
 
-```sh
-git clone git@github.com:1712n/hygge-website.git
-cd hygge-website
-git submodule update --recursive --init
-```
+Check `.devcontainer.json`.
 
 ## FAQ
 
