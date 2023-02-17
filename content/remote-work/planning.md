@@ -1,5 +1,5 @@
 ---
-title: 'Planning'
+title: "Planning"
 authors: ["yana", "ev"]
 date: 2022-03-21T12:00:00Z
 menu:
@@ -10,7 +10,7 @@ tags:
   - planning
   - iterations
   - leading
-  - 'first steps'
+  - "first steps"
 ---
 
 ![Planning](/img/remote-work/planning.png)
@@ -21,8 +21,9 @@ tags:
 
 Having a big goal with many time-consuming steps can be very stressful, or even overwhelming. This is the type of goal that you will always start "tomorrow" or "next week", but those times never seem to come. Learning to break your goals into atomic tasks will help you overcome the stress and procrastination they create.
 
-Here are some tips for breaking goals into tasks: 
-- Set [SMART goals](https://www.techrepublic.com/article/use-smart-goals-to-launch-management-by-objectives-plan/) 
+Here are some tips for breaking goals into tasks:
+
+- Set [SMART goals](https://www.techrepublic.com/article/use-smart-goals-to-launch-management-by-objectives-plan/)
 - Avoid creating tasks that require longer than one hour, unless absolutely necessary.
 - If you find a task is difficult to start, it might be too big. See if it can be broken down further. For example, "practice playing guitar" can be broken down to "practice the beginning of a song".
 - Long tasks that cannot be broken down further should be set to a time limit

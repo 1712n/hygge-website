@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: "About"
 authors: ["asya"]
 menu:
   - main
@@ -16,8 +16,6 @@ Hygge Workbook is a culture blueprint for distributed teams that covers various 
 The main resource of any high-tech company is talent. Creating a natural environment that attracts and retains this talent is essential. We've picked [Hygge](https://www.visitdenmark.com/denmark/highlights/hygge/what-hygge), a Danish word for a mood of coziness and wellness as an embodiment of people-centric approach to creating that fertile talent land. Organizations that strive to implement ideas, described in this workbook, are called Hygge Companies. Hygge Workbook represents a handbook of these companies.
 
 {{< youtube o5H5P7NOEeg >}}
-
-
 
 # What Makes It Different?
 

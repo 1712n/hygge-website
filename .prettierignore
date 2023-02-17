@@ -1,0 +1,28 @@
+# Hugo 
+public/
+resources/
+layouts/*.json
+assets/jsconfig.json
+static/
+
+# Node
+node_modules
+package-lock.json
+
+# Workflows 
+.github/
+
+# Prettier
+.prettiercache
+
+# Vendor
+*vendor/
+themes/
+
+# Temp
+# remove after #90 merge 
+layouts/_default/lirecent.html
+
+# can't refactor without refactoring theme
+# can't ignore line due to upstream bug
+layouts/partials/footer.html

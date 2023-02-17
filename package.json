@@ -1,0 +1,13 @@
+{
+  "name": "hygge-website",
+  "version": "1.0.0",
+  "repository": "https://github.com/1712n/hygge-website",
+  "private": true,
+  "scripts": {
+    "format": "prettier *** --write --cache --cache-location .prettiercache --ignore-unknown --no-error-on-unmatched-pattern"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "prettier-plugin-go-template": "^0.0.13"
+  }
+}

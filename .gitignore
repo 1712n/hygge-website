@@ -1,4 +1,14 @@
-public/
-resources/
-.DS_Stores
+# Hugo
+/resources/
+/assets/jsconfig.json
+/public/
+.hugo_build.lock
 
+# NPM
+node_modules/
+
+# Prettier
+.prettiercache
+
+# Misc
+.DS_Store

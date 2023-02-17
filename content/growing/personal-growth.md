@@ -1,5 +1,5 @@
 ---
-title: 'Personal Growth'
+title: "Personal Growth"
 authors: ["asya", "ev"]
 date: 2022-03-21T12:00:00Z
 menu:
@@ -9,8 +9,8 @@ weight: -120
 tags:
   - onboarding
   - leading
-  - 'HR processes'
-  - 'first steps'
+  - "HR processes"
+  - "first steps"
 ---
 
 ![Growth](/img/growing/growth.jpg)
@@ -21,9 +21,9 @@ Working in a Hygge Company provides an opportunity for extremely efficient and, 
 
 Use your personal repository to craft your way forward: use available there resources to set your own personal goals. This is less about tracking you and more about being able to help you with needed resources and to show you shortcuts that worked for the rest of the team. Those issues can be as small as figuring out how to set up a tool or as big as learning a new language. Hygge Companies do not have any strict rules about moving up the career ladder, but acquiring skills in at least one of the skill tracks is essential to your growth.
 
-*Engineers: code is only the beginning*. If you were hired as a software engineer, learn from people with other skills. Take advantage of this fact whenever possible: the more you can learn about other disciplines, the more valuable you become.
+_Engineers: code is only the beginning_. If you were hired as a software engineer, learn from people with other skills. Take advantage of this fact whenever possible: the more you can learn about other disciplines, the more valuable you become.
 
-*Non-Engineers: program or be programmed*. Different disciplines are part of making any product, but any developing industry is centered around data and automation. If your expertise is not in writing code, then every bit of energy you put into understanding the technical aspects of making software is to your (and company's) benefit. You don’t need to become an engineer, and there’s nothing that says an engineer is more valuable than you, but broadening your awareness in a technical direction is never a bad thing.
+_Non-Engineers: program or be programmed_. Different disciplines are part of making any product, but any developing industry is centered around data and automation. If your expertise is not in writing code, then every bit of energy you put into understanding the technical aspects of making software is to your (and company's) benefit. You don’t need to become an engineer, and there’s nothing that says an engineer is more valuable than you, but broadening your awareness in a technical direction is never a bad thing.
 
 # Responsibilities and Functional Teams
 
@@ -35,6 +35,7 @@ We define responsibility levels by the ability to manage issues, milestones and 
 
 First level are the wranglers. They tame, control and handle alpacas.
 Wranglers responsibility area:
+
 - complete individual issues;
 - speak up about problems;
 - work on getting relevant skills in at least one skill track.
@@ -42,8 +43,9 @@ Wranglers responsibility area:
 ### Weavers
 
 Other team members are involved in making the cloth. They have to choose the right material, plan the patterns and come up with ready-to-go products. This job requires a higher level of responsibility and advanced skills in at least one skill track.
-That is why we have weavers to oversee milestones completion. 
+That is why we have weavers to oversee milestones completion.
 Weavers responsibility area:
+
 - break down epics and milestones as well as oversee their completion;
 - specialize in particular customer segments, products, or technologies;
 - independently identify the problems, come up with solutions, formulate them in issues, and oversee their completion;
@@ -53,6 +55,7 @@ Weavers responsibility area:
 
 Finally, there are people who are responsible for all the aspects of company's operations in their respective skill track. They are tailors.
 Tailors responsibility area:
+
 - work on formulating epics and milestones;
 - being an expert in at least one of the skill track.
 

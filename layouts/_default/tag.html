@@ -3,13 +3,14 @@
 {{ partial "header/header" . }}
 
 {{ if .Content }}
-<div class='entry'>
-  {{ partial "entry/content" . }}
-</div>
+  <div class="entry">
+    {{ partial "entry/content" . }}
+  </div>
 {{ end }}
 
-<div class='container list-container tags-wrapper'>
-  <ul class='list'>
+
+<div class="container list-container tags-wrapper">
+  <ul class="list">
     {{ range .Paginator.Pages }}
       {{ .Render "litag" }}
     {{ end }}
