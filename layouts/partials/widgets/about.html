@@ -3,15 +3,15 @@
 {{- $lang := .Site.Language.Lang -}}
 {{- $config := ( ( index $configData $lang ) | default $configData ) -}}
 
-<section class='widget widget-about'>
+
+<section class="widget widget-about">
   <header>
     {{ with $config.logo }}
-    <div class='logo'>
-      <a href='{{ $.Site.Home.RelPermalink }}'>
-        <img src='{{ "/img/sidebar.logo.svg" | relURL }}'>
-      </a>
-    </div>
+      <div class="logo">
+        <a href="{{ $.Site.Home.RelPermalink }}">
+          <img src="{{ "/img/sidebar.logo.svg" | relURL }}" />
+        </a>
+      </div>
     {{ end }}
   </header>
-
 </section>

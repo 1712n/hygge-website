@@ -8,13 +8,13 @@
 {{- $taxonomyData := ( .Site.GetPage $taxonomy ).Data -}}
 {{- $taxonomySingular := $taxonomyData.Singular -}}
 
-<section class='widget widget-taxonomy_cloud'>
+
+<section class="widget widget-taxonomy_cloud">
   <header>
-    <h4 class='title widget-title'>
+    <h4 class="title widget-title">
       {{- ( $config.title | default ( i18n $taxonomySingular 2 ) ) -}}
     </h4>
   </header>
 
   {{ partial "extras/taxonomy_cloud" ( dict "Taxonomy" $taxonomy "Shuffle" $shuffle "Scope" . ) }}
-
 </section>

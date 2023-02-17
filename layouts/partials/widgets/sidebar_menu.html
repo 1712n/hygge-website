@@ -10,58 +10,61 @@
 {{- $items := ( index .Site.Menus $menu ) -}}
 
 {{- if $items -}}
+  <section class="widget widget-sidebar_menu">
+    {{- with $config.title -}}
+      <header>
+        <h4 class="title widget-title">
+          {{- . -}}
+        </h4>
+      </header>
+    {{- end -}}
 
-<section class='widget widget-sidebar_menu'>
-  {{- with $config.title -}}
-  <header>
-    <h4 class='title widget-title'>
-      {{- . -}}
-    </h4>
-  </header>
-  {{- end -}}
 
-  <nav id='sidebar-menu' class='menu sidebar-menu' aria-label='{{ i18n "sidebarMenu" }}'>
-    <div class='container'>
-      <ul>
-      {{- range $items -}}
-        {{- template "menu_item" ( dict "Item" . "Page" $ ) -}}
-      {{- end -}}
-      </ul>
-    </div>
-  </nav>
-
-</section>
-
+    <nav
+      id="sidebar-menu"
+      class="menu sidebar-menu"
+      aria-label="{{ i18n "sidebarMenu" }}"
+    >
+      <div class="container">
+        <ul>
+          {{- range $items -}}
+            {{- template "menu_item" ( dict "Item" . "Page" $ ) -}}
+          {{- end -}}
+        </ul>
+      </div>
+    </nav>
+  </section>
 {{- end -}}
 
 {{- define "menu_item" -}}
+  {{- $menu := ( .Page.Scratch.Get "menu" ) -}}
 
-{{- $menu := ( .Page.Scratch.Get "menu" ) -}}
+  {{- $isCurrent := ( .Page.IsMenuCurrent $menu .Item ) -}}
+  {{- $hasCurrent := ( .Page.HasMenuCurrent $menu .Item ) -}}
+  {{- $hasChildren := ( .Item.HasChildren ) -}}
 
-{{- $isCurrent := ( .Page.IsMenuCurrent $menu .Item ) -}}
-{{- $hasCurrent := ( .Page.HasMenuCurrent $menu .Item ) -}}
-{{- $hasChildren := ( .Item.HasChildren ) -}}
 
-<li class='item
-  {{- if $hasChildren }} has-children {{- end -}}
-  {{- if $hasCurrent }} has-current {{- end -}}
-  {{- if $isCurrent }} current {{- end -}}'>
-  <a {{ if $isCurrent -}} aria-current='page' {{ end -}} href='{{ .Item.URL }}'>
-    {{- with .Item.Pre -}}{{- . -}}{{- end -}}
-    {{ $firstLetter := substr .Item.Name 0 1 }}
-    {{- upper $firstLetter -}}{{ lower (strings.TrimPrefix $firstLetter .Item.Name) }}
-    {{- with .Item.Post -}}{{- . -}}{{- end -}}
-  </a>
+  <li
+    class="item
+  {{- if $hasChildren }}has-children{{- end -}}
+  {{- if $hasCurrent }}has-current{{- end -}}
+  {{- if $isCurrent }}current{{- end -}}"
+  >
+    <a {{ if $isCurrent -}}aria-current='page'{{ end -}} href="{{ .Item.URL }}">
+      {{- with .Item.Pre -}}{{- . -}}{{- end -}}
+      {{ $firstLetter := substr .Item.Name 0 1 }}
+      {{- upper $firstLetter -}}{{ lower (strings.TrimPrefix $firstLetter .Item.Name) }}
+      {{- with .Item.Post -}}{{- . -}}{{- end -}}
+    </a>
 
-  {{- if $hasChildren -}}
+    {{- if $hasChildren -}}
 
-  <ul class='sub-menu'>
-  {{- range .Item.Children -}}
-    {{- template "menu_item" ( dict "Item" . "Page" $.Page ) -}}
-  {{- end -}}
-  </ul>
-  {{- end -}} 
+      <ul class="sub-menu">
+        {{- range .Item.Children -}}
+          {{- template "menu_item" ( dict "Item" . "Page" $.Page ) -}}
+        {{- end -}}
+      </ul>
+    {{- end -}}
 
-</li>
-
+  </li>
 {{- end -}}

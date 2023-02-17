@@ -1,5 +1,5 @@
 ---
-title: 'Pull Requests'
+title: "Pull Requests"
 authors: ["marina", "inga"]
 date: 2022-03-10T12:00:00Z
 menu:
@@ -26,13 +26,14 @@ The pinnacle of mastering the async process is communicating through pull reques
 {{< youtube w3jLJU7DT5E >}}
 
 **Other relevant terms**
+
 - [Reviewers](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review)
 
 Just like issues, GitHub's pull request have assignees. In addition to this, they have reviewers - people or teams whose review opinion is especially valuable.
 
 - [Codeowners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
-The bigger your team, the more order you need to and manage knowledge ownership. One of the tools to keep the order is to document codeowners, who are in charge of their respective repository sections. The easiest way to manage codeowners is through [GitHub teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams). If you set a particular team as a codeowner for a repository or a part of it, all changes in the corresponding files and directories need to be approved by this team. 
+The bigger your team, the more order you need to and manage knowledge ownership. One of the tools to keep the order is to document codeowners, who are in charge of their respective repository sections. The easiest way to manage codeowners is through [GitHub teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams). If you set a particular team as a codeowner for a repository or a part of it, all changes in the corresponding files and directories need to be approved by this team.
 
 - [Branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 
@@ -45,6 +46,7 @@ Recorded changes made to the files in the branch. Each commit is tracked to make
 ## Step-by-Step Guide
 
 Let’s imagine you read a wiki and disagree with a policy or a process. Being able to change them is a part of Hygge Company [guiding principles](https://hygge.work/guiding-principles/): nothing is set in stone, and you can always propose and transparently discuss your changes through a pull request.
+
 ### Initiating your pull request
 
 Create a branch. Do it directly from the issue or [from the code page.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository). Give your branch a distinctive name, and you can start making changes!

@@ -1,5 +1,5 @@
 ---
-title: 'Onboarding'
+title: "Onboarding"
 authors: ["yana"]
 date: 2022-03-21T12:00:00Z
 menu:
@@ -10,7 +10,7 @@ tags:
   - hiring
   - onboarding
   - templates
-  - 'HR processes'
+  - "HR processes"
 ---
 
 ![Onboarding](/img/growing/onboarding.png)
@@ -19,10 +19,9 @@ The first few months are crucial to the success of the new hire. The newcomer wi
 
 {{< youtube j_1lIFRdnhA >}}
 
- 
-[Buddy](https://hygge.work/growing/buddy-guidelines/) helps to make onboarding experience engaging, yet well-organized and structured. Work-related information, served in tiny bits in the issue-tracker, facilitates the smooth transition to work culture of a Hygge company. 
+[Buddy](https://hygge.work/growing/buddy-guidelines/) helps to make onboarding experience engaging, yet well-organized and structured. Work-related information, served in tiny bits in the issue-tracker, facilitates the smooth transition to work culture of a Hygge company.
 
-## Teams 
+## Teams
 
 The following teams are usually involved in the onboarding process:
 
@@ -35,6 +34,7 @@ The following teams are usually involved in the onboarding process:
 The onboarding process starts after the contract is signed. An onboarding issue is created to ping all relevant teams and trigger required processes to get the new team member settled in. Below are a few issue and email templates for a mid-size org, feel free to add/remove tasks based on the size of your team and your needs.
 
 {{<details  "#### ► Onboarding issue">}}
+
 ```
 Link to the Candidate Processing issue:
 Resume/Linkedin:
@@ -66,9 +66,11 @@ Admin or IAM Team:
 - [ ] insert the name of the onboarding buddy to the Welcome Kit Issue and add relevant people in the `Meet your team` section
 - [ ] email personal address with credentials to the newly created Google Workspace account
 ```
+
 {{</details>}}
 
 {{<details  "#### ► Welcome Email">}}
+
 > Hello, !
 >
 > Congratulations on becoming a part of the team!
@@ -80,9 +82,10 @@ Admin or IAM Team:
 > 3. Watch out for any email notifications from GitHub in the coming weeks - they should lead you to all relevant projects and training resources.
 >
 > Feel free to reach out to us for any assistance you may need with the onboarding process.
-{{</details>}}
+> {{</details>}}
 
 {{<details  "#### ► Credentials Email">}}
+
 > Hello ,
 >
 > Below are the credentials to your new Google Workspace account. Simply use GMail to log in. This account will give you access to our weekly calls, team drives, calendars, chat channels, and many other internal resources. Don't forget to sign up for 2-step verification, so you don't get locked out in 2 weeks.
@@ -92,7 +95,8 @@ Admin or IAM Team:
 > Password
 >
 > Ping me if you need anything!
-{{</details>}}
+> {{</details>}}
 
 ## First Milestone review
+
 The onboarding process doesn't stop when the newcomer is set up. As they start working and learning more about the team, products, and organization as a whole, their skills might turn out to be useful somewhere else in the company. This is why it is important for the onboarding buddy to find a balance between letting newcomers wander around to see the bigger picture and laser focusing them on completing the initial milestone. At the end of the milestone, Hygge Team sends a milestone/3-month [survey form](https://forms.gle/yY1QoP2yahNKoVZz6) to the newcomer's key colleagues to get feedback and share it with the Hiring Manager. This feedback serves as a breeding ground to build a roadmap of personal and professional development.

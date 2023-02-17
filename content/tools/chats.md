@@ -1,5 +1,5 @@
 ---
-title: 'Corporate chats'
+title: "Corporate chats"
 authors: ["asya", "yana"]
 date: 2022-04-22T12:00:00Z
 menu:
@@ -9,7 +9,7 @@ weight: -120
 tags:
   - tools
   - collaboration
-  - 'first steps'
+  - "first steps"
 ---
 
 ![Chats](/img/tools/chats.png)
@@ -21,6 +21,7 @@ However, some team-building interactions are meant to be synchronous, such as co
 However, it is important to keep in mind the limitations. First, not everyone might be comfortable with the synchronous nature of an Element or Signal conversation. Second, things can and will get lost in these conversations. Don’t forget to be nice to each other and document all work-related decisions in the [GitHub issue tracker](https://hygge.work/github/).
 
 Do:
+
 - Send birthday wishes and celebrate other personal events.
 - Brainstorm solutions to poorly defined problems.
 - Share industry-related news.
@@ -29,4 +30,5 @@ Do:
 - Use GIFs and emojis.
 
 Don’t:
+
 - Collaborate on anything that can be done in an issue tracker.

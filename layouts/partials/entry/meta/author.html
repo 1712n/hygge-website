@@ -1,24 +1,22 @@
 {{- with .Params.authors -}}
+  {{- $lang := ( $.Params.lang | default $.Lang ) -}}
 
-{{- $lang := ( $.Params.lang | default $.Lang ) -}}
 
-<span class='byline'>
-  {{- partial "svg/icon" "author" -}}
-  <span class='screen-reader-text'> {{ i18n "by" }} </span>
+  <span class="byline">
+    {{- partial "svg/icon" "author" -}}
+    <span class="screen-reader-text"> {{ i18n "by" }} </span>
 
-  {{- range $i, $authorID := . -}}
-    {{- $author := ( index $.Site.Data.authors $authorID ) -}}
-    {{- $i18nAuthor := ( index $author $lang ) -}}
-    {{- $name := ( or $i18nAuthor.name $author.name ) -}}
-    {{- if gt $i 0 }}, {{ end -}}
+    {{- range $i, $authorID := . -}}
+      {{- $author := ( index $.Site.Data.authors $authorID ) -}}
+      {{- $i18nAuthor := ( index $author $lang ) -}}
+      {{- $name := ( or $i18nAuthor.name $author.name ) -}}
+      {{- if gt $i 0 }},{{ end -}}
 
-    {{ $url := ( print "authors" "/" $author.id ) | relLangURL }} 
-
-    {{ with $author.social.github }}
-      {{ $url = ( print "https://github.com/" . ) | relLangURL }} 
-    {{ end }}
-    <a href='{{ $url }}'>{{ $name.display }}</a>
-  {{- end -}}
-</span>
-
+      {{ $url := ( print "authors" "/" $author.id ) | relLangURL }}
+      {{ with $author.social.github }}
+        {{ $url = ( print "https://github.com/" . ) | relLangURL }}
+      {{ end }}
+      <a href="{{ $url }}">{{ $name.display }}</a>
+    {{- end -}}
+  </span>
 {{- end -}}
