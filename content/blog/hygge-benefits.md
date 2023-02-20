@@ -13,7 +13,7 @@ tags:
 
 # Inca Digital Benefits and Perks
 
-Well-thought benefits packages help Hygge companies retain their top-talents. In this post we shed some light on benefits that [Inca Digital](https://inca.digital/) offers to their employees.
+Well-thought benefits packages help [Hygge companies](https://hygge.work/#hygge-company) retain their top-talents. In this post we shed some light on benefits that [Inca Digital](https://inca.digital/) offers to their employees. 
 
 {{< embedsocial-inca >}}
 
