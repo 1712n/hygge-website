@@ -46,9 +46,9 @@
 
   <li
     class="item
-  {{- if $hasChildren }}has-children{{- end -}}
-  {{- if $hasCurrent }}has-current{{- end -}}
-  {{- if $isCurrent }}current{{- end -}}"
+    {{ if $hasChildren }}has-children{{ end }}
+    {{ if $hasCurrent }}has-current{{ end }}
+    {{ if $isCurrent }}current{{ end }}"
   >
     <a {{ if $isCurrent -}}aria-current='page'{{ end -}} href="{{ .Item.URL }}">
       {{- with .Item.Pre -}}{{- . -}}{{- end -}}
