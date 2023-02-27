@@ -1,22 +1,22 @@
 ---
-title: 'How to plan a company retreat'
+title: "How to plan a company retreat"
 authors: ["asya"]
 date: 2022-02-10T12:00:00Z
 tags:
-- communication
-- 'first steps'
-- benefits
+  - communication
+  - "first steps"
+  - benefits
 cover:
   image: /img/workation/workation.png
 ---
 
-One of the most efficient ways to make people feel cozy and cared for is to arrange a great company retreat, or [workation](https://www.urbandictionary.com/define.php?term=workation) for them. It's a sort of holiday event for a remote team where people get together in a beautiful place to hang out and work side by side. 
+One of the most efficient ways to make people feel cozy and cared for is to arrange a great company retreat, or [workation](https://www.urbandictionary.com/define.php?term=workation) for them. It's a sort of holiday event for a remote team where people get together in a beautiful place to hang out and work side by side.
 
 We believe that workations are the best type of in-person gatherings for remote teams. They serve as a form of first aid for fully-distributed teams to heal all sorts of communication, intercultural, and work-related issues. Therefore, they should be included in a fully-remote company's basic [benefits](https://hygge.work/tags/benefits/) package. Bringing people to a colocated environment 2–4 times a year has a major impact on combating social isolation, preventing burn-out, and fostering new ties in the team that eventually can grow into new products for the business.
 
 {{< youtube eJHdu55SAGo >}}
 
-Looking through the pictures from a company retreat, you might feel that there's nothing easier than managing this event for your remote team. All you have to do is choose an appealing spot by the sea, book the flights, and there you are: enjoying the time together. However, when you have more than five people in a team, things can get complicated. 
+Looking through the pictures from a company retreat, you might feel that there's nothing easier than managing this event for your remote team. All you have to do is choose an appealing spot by the sea, book the flights, and there you are: enjoying the time together. However, when you have more than five people in a team, things can get complicated.
 
 # Flights and rides
 
@@ -65,7 +65,7 @@ However, long workations are not always feasible, so here is the list of empiric
 
 ## Activities
 
-In [Hygge companies](https://hygge.work/#hygge-company), we always leave an opportunity for the teammembers to come up with any activity initiative. There are no limits and just one rule: they should convince somebody from the team to come along. Someone is arranging a winery tour, somebody goes for surfing classes, others prefer spending their evenings playing board games. 
+In [Hygge companies](https://hygge.work/#hygge-company), we always leave an opportunity for the teammembers to come up with any activity initiative. There are no limits and just one rule: they should convince somebody from the team to come along. Someone is arranging a winery tour, somebody goes for surfing classes, others prefer spending their evenings playing board games.
 
 In case the team is new and timid, organizers need to think of activities themselves. Road trips to discover breathtaking views, cooking together and having quiet movie movie nights could be a good start for any team.
 
