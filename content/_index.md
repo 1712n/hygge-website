@@ -9,15 +9,17 @@ cover:
   style: full
 ---
 
-Hygge Workbook is a culture blueprint for distributed teams that covers various aspects of the new way of working, from creating and managing atomic work tasks to surviving the mental health marathon. None of this is purely theoretical. We've studied successful remote projects and personally experimented with these ideas well before COVID changed the work culture landscape and made such workbook a vital part of any Hygge Company.
+Hygge Workbook is a culture blueprint for distributed teams that covers various aspects of the new way of working, from creating and managing atomic work tasks to surviving the mental health marathon. None of this is purely theoretical. We've studied successful remote projects and personally experimented with these ideas well before COVID changed the work culture landscape.
+
+Some companies use Hygge Workbook as their Remote Playbook, while others get inspired by these ideas to improve their virtual work management, team engagement and climate. [The tags](https://hygge.work/tags/) provide navigation for our practices' database, and [Hygge Work Blog](https://hygge.work/blog/) captures recent topics that caught our attention.
 
 # Hygge Company
 
-The main resource of any high-tech company is talent. Creating a natural environment that attracts and retains this talent is essential. We've picked [Hygge](https://www.visitdenmark.com/denmark/highlights/hygge/what-hygge), a Danish word for a mood of coziness and wellness as an embodiment of people-centric approach to creating that fertile talent land. Organizations that strive to implement ideas, described in this workbook, are called Hygge Companies. Hygge Workbook represents a handbook of these companies.
+The main resource of any high-tech company is talent. Creating a natural environment that attracts and retains this talent is essential. We've picked [Hygge](https://www.visitdenmark.com/denmark/highlights/hygge/what-hygge) (sounds like hyoo·guh), a Danish word for a mood of coziness and wellness as an embodiment of a people-centric approach to creating that fertile talent land. Organizations that strive to implement ideas, described in this workbook, are called Hygge Companies.
 
 {{< youtube o5H5P7NOEeg >}}
 
-# What Makes It Different?
+# What Makes Hygge Work Different?
 
 - Hiring from all over the world instead of from a central location.
 - Asynchronous work tasks and milestones over set working hours.
