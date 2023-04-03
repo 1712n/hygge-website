@@ -5,7 +5,6 @@ date: 2023-03-29T12:00:00Z
 tags:
   - leading
   - communication
-  - onboarding
   - guru
 ---
 
