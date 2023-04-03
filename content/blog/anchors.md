@@ -8,10 +8,9 @@ tags:
   - guru
 ---
 
-
 Being an effective remote manager is tricky. You have to find the right leadership style that corresponds to your personal values, take care of your team, and make sure that you hit the goals that are important for the business.
 
-When juggling between all the tasks you have on your plate when leading a remote workforce, it’s important to pay attention to the things that are important for the people you manage. By knowing their values and motivators, you can help them create an environment in which they can strive and feel happier at work. At [Hygge companies](https://hygge.work/#hygge-company), we adapted the [career anchors’ theory](https://www.mindtools.com/af694e5/scheins-career-anchors), which helps us in profiling the values of our team members. As Hygge companies provide a flexible work environment and have resources to create a human-centric work culture, we encourage building our work processes around the individual values of our employees. 
+When juggling between all the tasks you have on your plate when leading a remote workforce, it’s important to pay attention to the things that are important for the people you manage. By knowing their values and motivators, you can help them create an environment in which they can strive and feel happier at work. At [Hygge companies](https://hygge.work/#hygge-company), we adapted the [career anchors’ theory](https://www.mindtools.com/af694e5/scheins-career-anchors), which helps us in profiling the values of our team members. As Hygge companies provide a flexible work environment and have resources to create a human-centric work culture, we encourage building our work processes around the individual values of our employees.
 
 Usually, a person has up to the following 3 values that guide their work behavior and professional choices.
 
@@ -33,4 +32,4 @@ Usually, a person has up to the following 3 values that guide their work behavio
 
 ## How can you define the values of your team members?
 
-Talk to people. By being transparent in your communication, creating a safe space, showing your vulnerability, and using humor, you might create a vibrant connection with your team. When people feel safe and know that you’re aiming to help them and prioritize their needs, they will be open about their personal values. Good relationships are rarely a destination and are rather a process. If you’re equipped with relevant knowledge and put consistent and conscious effort into building your team, it will pay off. 
+Talk to people. By being transparent in your communication, creating a safe space, showing your vulnerability, and using humor, you might create a vibrant connection with your team. When people feel safe and know that you’re aiming to help them and prioritize their needs, they will be open about their personal values. Good relationships are rarely a destination and are rather a process. If you’re equipped with relevant knowledge and put consistent and conscious effort into building your team, it will pay off.

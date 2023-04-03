@@ -17,12 +17,12 @@ While all of us come to work every day for various reasons, there are several un
 Picture this: You're an employee, working hard day in and day out but feeling a little unsure about your abilities. Sound familiar? Well, it is a reality for several of us. As a manager, one of your primary responsibilities is to build a competent and high-performing team. The key to achieving this is providing regular feedback and recognition to your employees.
 
 Feedback
-Feedback is like a mirror. It reflects your strengths and weaknesses and helps you identify areas where you need to improve. That’s why it is essential to help your team members grow and develop skills to achieve their goals. 
+Feedback is like a mirror. It reflects your strengths and weaknesses and helps you identify areas where you need to improve. That’s why it is essential to help your team members grow and develop skills to achieve their goals.
 Here are some tips for sharing productive feedback:
-The best strategy is to balance positive and corrective feedback. 
+The best strategy is to balance positive and corrective feedback.
 Focus more on progress than on the goal itself. Every goal is a complex milestone whose completion is somewhere far on the horizon. Not seeing progress toward a goal can bring anxiety and self-doubt to your team. Instead, celebrate every step toward your employee’s goal because every little win counts.
 Recognition
-Recognition is like a pat on the back. It makes you feel valued and appreciated for your hard work. And who doesn’t love a little appreciation? Recognition is equally crucial in fostering a culture of growth and excellence. Providing personalized recognition to your team members shows them that you understand their goals, motivations, and challenges, and value their hard work. 
+Recognition is like a pat on the back. It makes you feel valued and appreciated for your hard work. And who doesn’t love a little appreciation? Recognition is equally crucial in fostering a culture of growth and excellence. Providing personalized recognition to your team members shows them that you understand their goals, motivations, and challenges, and value their hard work.
 
 [Research](https://hbr.org/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost) shows that symbolic awards, such as congratulatory cards and public recognition, can boost motivation, retention, and performance. But here’s the catch: It has to be genuine. Insincere recognition can actually do more harm than good. One size doesn’t fit all when it comes to recognition. Take time to understand your team members’ preferences and what motivates them, and rely on facts when recognizing the achievements of your team members. Use [the same models](https://hygge.work/communication/feedback/#suggesting-feedback) that you use for any other type of feedback.
 
@@ -33,11 +33,12 @@ Building competency is all about creating a culture of growth and excellence. En
 People’s motivation flourishes when they feel that they are mastering their environment. Providing autonomy to your team members means giving them the freedom to fulfill their tasks using the way that works for them, providing them with choice options when possible, and encouraging initiative.
 
 The following is a list of best practices that you might use starting today to foster autonomy and independence among your team members:
+
 - Initiate discussions about your team’s product development by setting up regular grooming meetings.
 - Create a safe space for everyone to voice their opinions by using [active listening](https://ggia.berkeley.edu/practice/active_listening).
-- [Acknowledge](https://www.hprc-online.org/social-fitness/relationship-building/validation-show-youre-listening-even-if-you-disagree) the feelings and perspectives of subordinates. 
+- [Acknowledge](https://www.hprc-online.org/social-fitness/relationship-building/validation-show-youre-listening-even-if-you-disagree) the feelings and perspectives of subordinates.
 - Provide choice options in tasks end encourage self-selected goal setting when possible.
-- Know the values of your people, and try to provide them opportunities to align their tasks with their values. 
+- Know the values of your people, and try to provide them opportunities to align their tasks with their values.
 - Provide access to resources in a non-controlling manner.
 - Create a clear vision of the future and the roles of individual contributions in this picture.
 - Reward your team to acknowledge employee competence.
@@ -45,12 +46,12 @@ The following is a list of best practices that you might use starting today to f
 If you’d like to create a culture of autonomy in your team, take a look at the comprehensive [independence empowering strategies guide](https://hbr.org/2023/03/5-strategies-to-empower-employees-to-make-decisions).
 
 ## Crafting social relations in remote teams
+
 How do we create a sense of belonging and meaningful connections when we’re all working from different places?
 
 It all boils down to relatedness, which means feeling like we’re part of something bigger than ourselves and forming close relationships with others. We can achieve this in three ways: individually, as a team, and at the organizational level.
 
 On an individual level, it’s all about letting our guard down and being open and honest with our coworkers. We can bond over shared humor and disclose personal stories, which can create a sense of trust and intimacy.
-
 
 At the team level, we need to care for each other, work toward a common goal, and make time to connect with one another. When we have a sense of purpose and feel like we’re in it together, our relationships can deepen and become more fulfilling.
 
