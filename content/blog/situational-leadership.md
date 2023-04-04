@@ -7,7 +7,7 @@ tags:
   - communication
   - onboarding
   - guru
- cover:
+cover:
   image: /img/situational-leadership.png
 ---
 
