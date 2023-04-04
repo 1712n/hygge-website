@@ -1,0 +1,56 @@
+<li class="item">
+  <div class="item-tag">
+    <a href="{{ .Permalink | relURL }}">
+      {{ $img := "/img/no-cover.jpg" }}
+
+      {{ with .Params.cover.image }}
+        {{ $img = . }}
+      {{ else }}
+        {{ $urls := findRE "<img src=\"[^\"|\\\"]*\"" .Content -}}
+        {{ $url := index ($urls) 0 }}
+        {{ if $url }}
+          {{ $url := (strings.TrimPrefix "<img src=\"" $url) -}}
+          {{ $img = strings.TrimSuffix "\"" $url -}}
+        {{ end }}
+      {{ end }}
+
+
+      <img
+        class="item-tag-image"
+        src="{{ $img }}"
+        alt="Destination cover image"
+      />
+    </a>
+
+    <div class="item-tag-description">
+      <header class="item-header">
+        <div class="item-info">
+          <h1 class="item-title">
+            <a href="{{ .Permalink | relURL }}">
+              {{- .Title -}}
+            </a>
+          </h1>
+        </div>
+
+        <div class="entry-meta">
+          {{ partial "entry/meta/posted-on" . }}
+          {{ partial "entry/meta/author" . }}
+          {{ partial "entry/meta/reading-time" . }}
+        </div>
+
+        <p>
+          {{- truncate 190 .Summary -}}
+        </p>
+
+        <ul class="item-tag-item-tags">
+          {{ range .Params.tags }}
+            {{ $url := replace (lower . ) " " "-" }}
+            <li class="item-tag-item-tag">
+              <a href="/tags/{{ $url }}/">#{{ . }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </header>
+    </div>
+  </div>
+</li>

@@ -1,7 +1,7 @@
 ---
 title: "How to plan a company retreat"
 authors: ["asya"]
-date: 2022-02-10T12:00:00Z
+date: 2023-02-10T12:00:00Z
 tags:
   - communication
   - "first steps"
