@@ -32,7 +32,7 @@
           </h1>
         </div>
 
-        <div class='entry-meta'>
+        <div class="entry-meta">
           {{ partial "entry/meta/posted-on" . }}
           {{ partial "entry/meta/author" . }}
           {{ partial "entry/meta/reading-time" . }}
@@ -41,7 +41,7 @@
         <p>
           {{- truncate 190 .Summary -}}
         </p>
-        
+
         <ul class="item-tag-item-tags">
           {{ range .Params.tags }}
             {{ $url := replace (lower . ) " " "-" }}
@@ -54,4 +54,3 @@
     </div>
   </div>
 </li>
-

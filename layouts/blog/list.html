@@ -8,6 +8,7 @@
   </div>
 {{ end }}
 
+
 <div class="container tags-wrapper list-container">
   <ul class="list">
     {{ range sort .Paginator.Pages.ByDate.Reverse }}
@@ -19,4 +20,3 @@
 </div>
 
 {{ partial "footer" . }}
-
