@@ -234,3 +234,20 @@
   justify-content: space-between;
   align-items: center;
 }
+
+
+/* BLOG */
+
+.type-blog .entry-meta {
+  margin-top: unset;
+  margin: 0.5em 0;
+  justify-content: flex-start;
+}
+
+.type-blog .item-tag-image {
+  height: 225px;
+}
+
+.type-blog .item-header > p {
+  margin: 0 0 1em;
+}
