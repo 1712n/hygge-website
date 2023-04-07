@@ -6,8 +6,8 @@ tags:
   - leading
   - communication
   - guru
- cover:
-image: /img/leadership/leaders.png
+cover:
+  image: /img/leadership/leaders.png
 ---
 
 # How to make work a better place for your virtual team
