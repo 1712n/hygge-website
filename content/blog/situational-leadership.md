@@ -8,7 +8,7 @@ tags:
   - onboarding
   - guru
 cover:
-  image: /img/situational-leadership.png
+  image: /img/leadership/situational-leadership.png
 ---
 
 Situational leadership and how to use it in onboarding and day-to-day team management
