@@ -19,6 +19,7 @@ While all of us come to work every day for various reasons, there are several un
 Picture this: You're an employee, working hard day in and day out but feeling a little unsure about your abilities. Sound familiar? Well, it is a reality for several of us. As a manager, one of your primary responsibilities is to build a competent and high-performing team. The key to achieving this is providing regular feedback and recognition to your employees.
 
 ### Feedback
+
 Feedback is like a mirror. It reflects your strengths and weaknesses and helps you identify areas where you need to improve. That’s why it is essential to help your team members grow and develop skills to achieve their goals.
 Here are some tips for sharing productive feedback:
 The best strategy is to balance positive and corrective feedback.
