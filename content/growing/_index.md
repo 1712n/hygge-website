@@ -21,9 +21,9 @@ Hygge Companies believe in career choices guided by internal curiosity and the d
 Typically, a selection process includes:
 
 1. Job posting
-2. Challenge Submission
+2. [Challenge](https://hygge.work/growing/challenge-program/) Submission
 3. Up to three interviews
-4. Hiring decision and onboarding
+4. Hiring decision and [onboarding](https://hygge.work/growing/onboarding/)
 
 # Hygge Team 🧦☕️
 

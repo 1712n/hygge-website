@@ -10,7 +10,6 @@ tags:
   - collaboration
   - tools
   - GitHub
-  - leading
   - guru
 ---
 
