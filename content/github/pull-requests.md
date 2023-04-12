@@ -11,7 +11,6 @@ tags:
   - iterations
   - collaboration
   - async
-  - leading
   - guru
 ---
 

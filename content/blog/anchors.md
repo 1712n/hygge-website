@@ -6,6 +6,8 @@ tags:
   - leading
   - communication
   - guru
+cover:
+  image: /img/leadership/values.png
 ---
 
 Being an effective remote manager is tricky. You have to find the right leadership style that corresponds to your personal values, take care of your team, and make sure that you hit the goals that are important for the business.

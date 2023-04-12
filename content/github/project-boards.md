@@ -38,6 +38,8 @@ Project boards can also have extra information added in either the project board
 - Describe format of the board and different views
 - Use markdown to format README, include images and advanced formatting
 
+See best examples of project boards [here](https://hygge.work/blog/project-boards/).
+
 ### Project Migration
 
 Classic project boards are able to be migrated to the beta format, however automation, activity, archive, and triage will not transfer over. Everything else such as issues, pull requests, and notes will transfer over along with the board’s title and description. In addition, there’s the option to keep or delete the original classic board..
