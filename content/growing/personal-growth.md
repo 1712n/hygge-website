@@ -51,7 +51,7 @@ Weavers responsibility area:
 - independently identify the problems, come up with solutions, formulate them in issues, and oversee their completion;
 - document all new tech and business processes.
 
-To distribute tasks effectively and oversee their completion, Weavers rely on their [leadership](https://hygge.work/tags/leading/) skills. 
+To distribute tasks effectively and oversee their completion, Weavers rely on their [leadership](https://hygge.work/tags/leading/) skills.
 
 ### Tailors
 
