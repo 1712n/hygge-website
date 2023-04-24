@@ -10,6 +10,7 @@ tags:
   - hiring
   - "HR processes"
   - guru
+  - "Challenge program"
 ---
 
 ![Challenge](/img/growing/challenge.png)
