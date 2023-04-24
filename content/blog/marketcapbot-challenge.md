@@ -6,23 +6,24 @@ tags:
   - guru
   - "Challenge program"
   - hiring
-   - "HR processes"
+    - "HR processes"
 cover:
   image: /img/posts/MarketCapBot.png
 ---
+
 Task-performance based selection is the future for tech companies. That is why [Hygge companies](https://hygge.work/#hygge-company) use the [Challenge Program](https://hygge.work/growing/challenge-program/) to provide candidates an opportunity to demonstrate their skills in real-life scenarios and to experience what their work might be like before making the decision to stick with the company.
 
-Some issues in the [Challenge Program](https://hygge.work/growing/challenge-program/) have the [`bounty` label](https://github.com/1712n/challenge/issues?q=label%3A%22bounty+-+paid%22+). These are one-off paid tasks that usually require advanced skills. How do Hygge companies come up with these tasks? How do participants react to these tasks, and how does it affect selection? We spoke to the creators of [“MarketCapBot - Automate posting on Twitter”](https://github.com/1712n/challenge/issues/86) [Sofia](https://github.com/sofiasedlova) and [Aleksei](https://github.com/darknessest) to find the answers. 
+Some issues in the [Challenge Program](https://hygge.work/growing/challenge-program/) have the [`bounty` label](https://github.com/1712n/challenge/issues?q=label%3A%22bounty+-+paid%22+). These are one-off paid tasks that usually require advanced skills. How do Hygge companies come up with these tasks? How do participants react to these tasks, and how does it affect selection? We spoke to the creators of [“MarketCapBot - Automate posting on Twitter”](https://github.com/1712n/challenge/issues/86) [Sofia](https://github.com/sofiasedlova) and [Aleksei](https://github.com/darknessest) to find the answers.
 
 ## Creating a Challenge
 
-When Sofia was creating a challenge, she did not find it that difficult to come up with a task. “We were clear about the technical competencies that the person should possess, and it made the process easy. Yet, it’s essential for us to wrap a technical issue into a business use case so as not to turn the program into a bunch of optimization tasks that business giants use in their interviews. This way, participation in the challenge brings value to everyone,” she says. Her mastered certain technologies; however, they needed to discover new approaches to work with those technologies. 
+When Sofia was creating a challenge, she did not find it that difficult to come up with a task. “We were clear about the technical competencies that the person should possess, and it made the process easy. Yet, it’s essential for us to wrap a technical issue into a business use case so as not to turn the program into a bunch of optimization tasks that business giants use in their interviews. This way, participation in the challenge brings value to everyone,” she says. Her mastered certain technologies; however, they needed to discover new approaches to work with those technologies.
 
-Similar to other issues in the [Challenge Program](https://hygge.work/growing/challenge-program/), the “MarketCapBot Challenge” was posted on [GitHub](https://hygge.work/github/. Participants offered their solutions through [pull requests](https://hygge.work/github/pull-requests/). Aleksei noted that this transparent process has several advantages. First, the reviewer can evaluate the progress by looking into the participants’ branches. Second, it’s easy to identify the style of work by looking at the commits. Third, everyone can see the progress made by others, and this community empowerment fosters better solutions over time. 
+Similar to other issues in the [Challenge Program](https://hygge.work/growing/challenge-program/), the “MarketCapBot Challenge” was posted on [GitHub](https://hygge.work/github/. Participants offered their solutions through [pull requests](https://hygge.work/github/pull-requests/). Aleksei noted that this transparent process has several advantages. First, the reviewer can evaluate the progress by looking into the participants’ branches. Second, it’s easy to identify the style of work by looking at the commits. Third, everyone can see the progress made by others, and this community empowerment fosters better solutions over time.
 
 ## Filtering the solutions
 
-Task design helped Sofia and Aleksei optimize the time taken to screen the answers: “Technically, our task was about working with a database. One might have solved the issue by coding or putting together a sophisticated data request. When I saw the solution, I could immediately tell the level of expertise of every participant and even identify their background and technical stack.” 
+Task design helped Sofia and Aleksei optimize the time taken to screen the answers: “Technically, our task was about working with a database. One might have solved the issue by coding or putting together a sophisticated data request. When I saw the solution, I could immediately tell the level of expertise of every participant and even identify their background and technical stack.”
 
 Together with the nature of the task, which allowed for various creative solutions, the challenge allowed for filtering out the wrong results quickly. Violating the security norms or providing a partially working code were among the “red flags”.
 
@@ -44,4 +45,4 @@ Thank you for this interesting challenge! It was a pleasure to participate, and 
 [eg-mart](https://github.com/eg-mart)
 ```
 
-Discover more stories about Challenge Program winners on [Hygge Work Instagram](https://www.instagram.com/explore/tags/challenge_successstory/). 
+Discover more stories about Challenge Program winners on [Hygge Work Instagram](https://www.instagram.com/explore/tags/challenge_successstory/).
