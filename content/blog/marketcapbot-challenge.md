@@ -36,15 +36,15 @@ Competing in a challenge is a win–win both for the company and participants. �
 The [Challenge Program](https://hygge.work/growing/challenge-program/) creates a space for co-minded people to collaborate and voice their opinions. Here are a few reviews that Sofia and Aleksei received from their challenge participants:
 
 ```
-My congratulations to the winner. Thanks for this challenge. 
-I’ve learned some new things. It was a useful experience. 
+My congratulations to the winner. Thanks for this challenge.
+I’ve learned some new things. It was a useful experience.
 Best wishes to all participants
 BorisThereIs - https://github.com/BorisThereIs
 ```
 
 ```
-Thank you for this interesting challenge! It was a pleasure to participate, and the financial reward was quite a nice bonus. 
-I am really looking forward to further cooperation with Inca Digital. 
+Thank you for this interesting challenge! It was a pleasure to participate, and the financial reward was quite a nice bonus.
+I am really looking forward to further cooperation with Inca Digital.
 I wish all the other participants to keep trying and to succeed eventually!
 eg-mart
 https://github.com/eg-mart
