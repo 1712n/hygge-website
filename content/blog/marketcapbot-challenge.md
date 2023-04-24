@@ -6,7 +6,7 @@ tags:
   - guru
   - "Challenge program"
   - hiring
-    - "HR processes"
+  - "HR processes"
 cover:
   image: /img/posts/MarketCapBot.png
 ---
@@ -19,7 +19,7 @@ Some issues in the [Challenge Program](https://hygge.work/growing/challenge-prog
 
 When Sofia was creating a challenge, she did not find it that difficult to come up with a task. “We were clear about the technical competencies that the person should possess, and it made the process easy. Yet, it’s essential for us to wrap a technical issue into a business use case so as not to turn the program into a bunch of optimization tasks that business giants use in their interviews. This way, participation in the challenge brings value to everyone,” she says. Her mastered certain technologies; however, they needed to discover new approaches to work with those technologies.
 
-Similar to other issues in the [Challenge Program](https://hygge.work/growing/challenge-program/), the “MarketCapBot Challenge” was posted on [GitHub](https://hygge.work/github/. Participants offered their solutions through [pull requests](https://hygge.work/github/pull-requests/). Aleksei noted that this transparent process has several advantages. First, the reviewer can evaluate the progress by looking into the participants’ branches. Second, it’s easy to identify the style of work by looking at the commits. Third, everyone can see the progress made by others, and this community empowerment fosters better solutions over time.
+Similar to other issues in the [Challenge Program](https://hygge.work/growing/challenge-program/), the “MarketCapBot Challenge” was posted on [GitHub](https://hygge.work/github/). Participants offered their solutions through [pull requests](https://hygge.work/github/pull-requests/). Aleksei noted that this transparent process has several advantages. First, the reviewer can evaluate the progress by looking into the participants’ branches. Second, it’s easy to identify the style of work by looking at the commits. Third, everyone can see the progress made by others, and this community empowerment fosters better solutions over time.
 
 ## Filtering the solutions
 
@@ -36,13 +36,18 @@ Competing in a challenge is a win–win both for the company and participants. �
 The [Challenge Program](https://hygge.work/growing/challenge-program/) creates a space for co-minded people to collaborate and voice their opinions. Here are a few reviews that Sofia and Aleksei received from their challenge participants:
 
 ```
-My congratulations to the winner. Thanks for this challenge. I’ve learned some new things. It was a useful experience. Best wishes to all participants
-[BorisThereIs](https://github.com/BorisThereIs)
+My congratulations to the winner. Thanks for this challenge.
+I’ve learned some new things. It was a useful experience.
+Best wishes to all participants
+BorisThereIs - https://github.com/BorisThereIs
 ```
 
 ```
-Thank you for this interesting challenge! It was a pleasure to participate, and the financial reward was quite a nice bonus. I am really looking forward to further cooperation with Inca Digital. I wish all the other participants to keep trying and to succeed eventually!
-[eg-mart](https://github.com/eg-mart)
+Thank you for this interesting challenge! It was a pleasure to participate, and the financial reward was quite a nice bonus.
+I am really looking forward to further cooperation with Inca Digital.
+I wish all the other participants to keep trying and to succeed eventually!
+eg-mart
+https://github.com/eg-mart
 ```
 
 Discover more stories about Challenge Program winners on [Hygge Work Instagram](https://www.instagram.com/explore/tags/challenge_successstory/).
