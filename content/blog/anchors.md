@@ -22,7 +22,7 @@ Usually, a person has up to the following 3 values that guide their work behavio
 
 **3. Independence** – These individuals crave autonomy in their jobs, seeking flexibility in terms of when and how they work. They prefer to act independently without excessive direction, interference, or confirmation. They may decline promotions to retain their independence.
 
-**4. Security and stability **– These individuals seek secure and predictable positions and activities, planning their lives around them while taking few risks. They value financial and employment security and may remain in the same position for many years. They emphasize planning ahead, keeping detailed records, and inquiring about employment processes and other security attributes.
+**4. Security and stability** – These individuals seek secure and predictable positions and activities, planning their lives around them while taking few risks. They value financial and employment security and may remain in the same position for many years. They emphasize planning ahead, keeping detailed records, and inquiring about employment processes and other security attributes.
 
 **5. Innovation and ownership** – These individuals are the creative minds of a business, enjoy brainstorming and inventing new things, and often aspire to run their own business. They share the workload and take ownership of their work; they generally become bored without challenges and seek monetary gain as proof of their abilities. They strive to turn their ideas into reality.
 
