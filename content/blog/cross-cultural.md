@@ -6,6 +6,8 @@ tags:
   - communication
   - collaboration
   - guru
+cover:
+image: /img/communication/crosscultural.png
 ---
 
 Cross-cultural differences are a common challenge in the tech industry. As companies operate in a global environment, they must be aware of fundamental cultural differences to promote better communication and collaboration among employees from different cultures, and ensure that business deals and transactions with other global partners go smoothly. Challenges can arise as a result of any differences that multicultural companies might face in the following areas:
