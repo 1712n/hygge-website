@@ -15,10 +15,10 @@ This is a collection of additional resources that might be useful in building a 
 
 # Handbooks
 
-- [Old Valve Handbook](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf) and its [2023 YouTube review](https://www.youtube.com/watch?v=s9aCwCKgkLo) heavily influenced our guiding principles. Valve is a great example of a company that has been pumping out cutting-edge products for decades without becoming a cancerous evil corp.
+- [Old Valve Handbook](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf) and its [2023 YouTube review](https://www.youtube.com/watch?v=s9aCwCKgkLo) heavily influenced our guiding principles. Valve is a good example of a company that has been pumping out cutting-edge products for decades with their own internal issues, but without becoming a cancerous evil corp.
 - GitLab with its [Remote Playbook](https://about.gitlab.com/company/culture/all-remote/) and [Handbook](https://about.gitlab.com/handbook/) is another place where we stole ideas from.
 - [Zapier](https://zapier.com/learn/remote-work/) has a lot of materials about remote work and great tips about internal communication in distributed teams.
-- Buffer shares everything they know about remote work in their [blog](https://buffer.com/resources/remote-work/), and some ideas resonate with tne Hygge work approach.
+- Buffer shares everything they know about remote work in their [blog](https://buffer.com/resources/remote-work/), and some ideas resonate with the Hygge work approach.
 
 # Remote work
 
