@@ -7,7 +7,7 @@ tags:
   - collaboration
   - guru
 cover:
-  
+  image: /img/communication/Meaningful Conversations.png
 ---
 In a fast-paced world filled with distractions and superficial interactions, engaging in meaningful conversations has become a rare occurrence. With colleagues, family, friends, and even strangers, the ability to engage in deep, authentic conversations is a skill worth honing. Meaningful conversations not only foster stronger relationships but also provide opportunities for personal growth and understanding. Here are some tips to help you cultivate meaningful conversations in various aspects of your life. 
 
@@ -27,6 +27,6 @@ While examples can be helpful in illustrating a point, they can inadvertently li
 
 One important point to **avoid** in meaningful conversations is asking **"Why?" questions**. "Why" can put respondents on the defensive and may come across as interrogative, inflammatory, or rude, triggering negative associations. Instead, consider using alternatives. For instance, rather than asking, "Why do you prefer that type of program?" try asking, "What are the major reasons you prefer that type of program? What do you like about it?" 
 
-PICTURE
+![Do-Dont](/img/communication/do-dont.png)
 
 Meaningful conversations are more than just exchanges of words—they are opportunities for growth, understanding, and building meaningful relationships. So, the next time you find yourself in a conversation, embrace these tips and unlock the power of meaningful communication.
