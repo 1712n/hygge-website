@@ -6,7 +6,7 @@ tags:
   - communication
   - collaboration
   - guru
-  - leadning
+  - leading
 cover:
   image: /img/communication/Meaningful Conversations.png
 ---
