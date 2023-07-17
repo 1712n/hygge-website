@@ -1,20 +1,27 @@
 ---
-title: " Building Deeper Connections with Others"
+title: "Building Deeper Connections with Others"
 authors: ["yana"]
 date: 2023-07-05T12:00:00Z
 tags:
   - communication
   - collaboration
   - guru
+  - leadning
 cover:
   image: /img/communication/Meaningful Conversations.png
 ---
 
 In a fast-paced world filled with distractions and superficial interactions, engaging in meaningful conversations has become a rare occurrence. With colleagues, family, friends, and even strangers, the ability to engage in deep, authentic conversations is a skill worth honing. Meaningful conversations not only foster stronger relationships but also provide opportunities for personal growth and understanding. Here are some tips to help you cultivate meaningful conversations in various aspects of your life.
 
+## 1. Connect 
+
 One of the fundamental elements of meaningful conversations is making **connections**. Building connections can be challenging, so it’s important to have a few tricks up your sleeve. Here’s one: **Small talk** may seem trivial, but it serves as a powerful tool for self-disclosure. By sharing personal experiences or anecdotes, you show your vulnerability and humanity, making yourself relatable to others. This relatability fosters a sense of comfort and ease, helping to create a safe space for open and meaningful conversations.
 
-Another essential tool is **active listening**. Active listening involves giving your full attention to the speaker and demonstrating that you are fully present and engaged. It requires attending to what is being said, **paraphrasing** to confirm understanding, and **reflecting back** the emotions inherent in the message. (e.g., “Sounds like that argument with your boss was really frustrating for you” and “Can you tell me a little more about what that was like for you?”). Active listening might be hard to practice, as sometimes you may sound like a psychotherapist. The key is to be authentic.
+## 2. Listen
+
+Another essential tool is **active listening**. Active listening involves giving your full attention to the speaker and demonstrating that you are fully present and engaged. It requires attending to what is being said, **paraphrasing** to confirm understanding, and **reflecting back** the emotions inherent in the message. (e.g., “Sounds like that argument with your boss was really frustrating for you” and “Can you tell me a little more about what that was like for you?”). Active listening might be hard to practice, as sometimes you may sound unnatural. Keep trying, as practice makes perfect.
+
+## 3. Engage
 
 Connections are not only about being a good listener, but also about showing interest, and **questions** are the best way to do this.
 
