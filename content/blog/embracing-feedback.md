@@ -45,9 +45,7 @@ Another way to deal with such situations is to focus on aspects that you can con
 | The amount of effort you invest                                 |             Past events              |
 | How you treat others                                            |               Weather                |
 
-
 Only you decide if you’d like to accept or reject suggested feedback. The form that feedback comes in is important too. If you wonder how to formulate your feedback effectively yet softly, see [“Feedback” tag](https://hygge.work/tags/feedback/).
-
 
 # Additional Resources
 

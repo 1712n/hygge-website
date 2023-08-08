@@ -56,4 +56,3 @@ Hit [“Feedback” tag](https://hygge.work/tags/feedback/) to discover more tip
 - [How to give feedback effectively](https://qz.com/work/1238966/how-to-give-feedback-more-effectively/)
 - [To give better feedback, you must fully understand the agony of receiving it](https://qz.com/work/1086444/)
 - [Thanks for the Feedback: The Science and Art of Receiving Feedback Well (book)](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136)
-
