@@ -10,6 +10,6 @@ weight: -170
 slug: tools
 ---
 
-![Remote Work](/img/lifestyle/remote-work-1.jpg)
+![Tools](content/img/tools/tools.png)
 
 To make things simple, we use examples of specific tools below to illustrate how a distributed team can be set up. Most of these tools have free versions that can be used by distributed teams with a $0 budget.

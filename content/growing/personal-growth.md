@@ -13,7 +13,7 @@ tags:
   - "first steps"
 ---
 
-![Growth](/img/growing/growth.jpg)
+![Growth](/img/growing/growth.png)
 
 Hygge Companies hire people not only because they are useful now, but also because they believe in their potential.
 
