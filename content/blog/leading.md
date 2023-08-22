@@ -61,6 +61,7 @@ At the team level, we need to care for each other, work toward a common goal, an
 And, of course, let’s not forget about the power of appreciation! At the organizational level, [recognition](blog/leading.md#recognition) of our hard work and achievements can go a long way toward making us feel valued and connected to our company.
 
 One of the great practices of building a connection is holding 1:1 sessions every 6-12 months to keep track of your team members' development. Here are several questions you might want to ask your team:
+
 1. What’s the best part about working on this team?
 1. Do you feel adequately supported in your professional development?
 1. What's the career direction that you're interested in currently?
