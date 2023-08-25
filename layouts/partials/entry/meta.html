@@ -9,12 +9,12 @@
 {{- end -}}
 
 {{- if ( $.Scratch.Get "showEntryMeta" ) -}}
-<div class='entry-meta'>
-  {{ if eq .Page.Type "blog" }}
-    {{ partial "entry/meta/posted-on" . }}
-  {{ end }}
+  <div class="entry-meta">
+    {{ if eq .Page.Type "blog" }}
+      {{ partial "entry/meta/posted-on" . }}
+    {{ end }}
 
-  {{ partial "entry/meta/author" . }}
-  {{ partial "entry/meta/reading-time" . }}
-</div>
+    {{ partial "entry/meta/author" . }}
+    {{ partial "entry/meta/reading-time" . }}
+  </div>
 {{ end }}
