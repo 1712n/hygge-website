@@ -25,4 +25,5 @@ layouts/_default/lirecent.html
 
 # can't refactor without refactoring theme
 # can't ignore line due to upstream bug
+layouts/partials/header.html
 layouts/partials/footer.html
