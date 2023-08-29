@@ -25,7 +25,7 @@ There are lots of ways you can use Hygge Workbook:
 
 Some companies use Hygge work approach, and Hygge Workbook serves as a company handbook for them. If you'd like to discover more about this method of operating and see if it's a fit for you, start with these articles:
 
-[What's a Hygge Company?](content/hygge-work.md) 
+[What's a Hygge Company?](content/hygge-work.md)
 
 [Guiding principles](content/guiding-principles/_index.md)
 
@@ -125,4 +125,3 @@ Double-thanks for coming over. Here is a list of things that might catch your at
 
 </p>
 </details>
-

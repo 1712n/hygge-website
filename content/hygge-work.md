@@ -8,7 +8,6 @@ tags:
   - first steps
 ---
 
-
 The main resource of any high-tech company is talent. Creating a natural environment that attracts and retains this talent is essential. We've picked [Hygge](https://www.visitdenmark.com/denmark/highlights/hygge/what-hygge) (sounds like hyoo·guh), a Danish word for a mood of coziness and wellness as an embodiment of a people-centric approach to creating that fertile talent land. Organizations that strive to implement ideas, described in this workbook, are called Hygge Companies.
 
 Hygge Workbook is a culture blueprint for distributed teams that covers various aspects of the new way of working, from creating and managing atomic work tasks to surviving the mental health marathon. None of this is purely theoretical. We've studied successful remote projects and personally experimented with these ideas well before COVID changed the work culture landscape.

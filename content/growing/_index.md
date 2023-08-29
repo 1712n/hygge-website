@@ -24,4 +24,3 @@ Typically, a selection process includes:
 2. [Challenge](https://hygge.work/growing/challenge-program/) Submission
 3. Up to three interviews
 4. Hiring decision and [onboarding](https://hygge.work/growing/onboarding/)
-
