@@ -17,11 +17,7 @@ It's an open-source GitHub-based book of knowledge for distributed teams that co
 
 There are lots of ways you can use Hygge Workbook:
 
-<details>
-<summary>
-<b>1. As a candidate.</b>
-</summary>
-<p>
+{{<details "#### ► 1. As a candidate.">}}
 
 Some companies use Hygge work approach, and Hygge Workbook serves as a company handbook for them. If you'd like to discover more about this method of operating and see if it's a fit for you, start with these articles:
 
@@ -35,14 +31,9 @@ Some companies use Hygge work approach, and Hygge Workbook serves as a company h
 
 [Hygge Work Instagram](https://www.instagram.com/hygge.work/)
 
-</p>
-</details>
+{{</details>}}
 
-<details>
-<summary>
-<b>2. As someone working in a company using Hygge Work approach.</b>
-</summary>
-<p>
+{{<details "#### ► 2. As someone working in a company using Hygge Work approach.">}}
 
 If you're already a part of Hygge Company, Hygge Work serves as a guiding book to navigate your work and keeping the right balance. Our best articles:
 
@@ -58,14 +49,9 @@ If you're already a part of Hygge Company, Hygge Work serves as a guiding book t
 
 [Blog](content/blog/_index.md)
 
-</p>
-</details>
+{{</details>}}
 
-<details>
-<summary>
-<b>3. As a remote team lead.</b>
-</summary>
-<p>
+{{<details "#### ► 3. As a remote team lead.">}}
 
 Leading a distributed team is a virtue. The good news is that everyone can learn it! Take a look at the following pieces to help you in your journey:
 
@@ -81,14 +67,9 @@ Leading a distributed team is a virtue. The good news is that everyone can learn
 
 [Everything else tagged "Leading"](https://hygge.work/tags/leading/)
 
-</p>
-</details>
+{{</details>}}
 
-<details>
-<summary>
-<b>4. As a People Ops professional.</b>
-</summary>
-<p>
+{{<details "#### ► 4. As a People Ops professional.">}}
 
 There are a number of solid HR-practices that we developed for distributed teams. Take a look to get insired:
 
@@ -106,14 +87,9 @@ There are a number of solid HR-practices that we developed for distributed teams
 
 [Hygge Work LinkedIn with great tips & tricks ](https://www.linkedin.com/company/hyggework)
 
-</p>
-</details>
+{{</details>}}
 
-<details>
-<summary>
-<b>5. As a curious passerby.</b>
-</summary>
-<p>
+{{<details "#### ► 5. As a curious passerby.">}}
 
 Double-thanks for coming over. Here is a list of things that might catch your attention:
 
@@ -123,5 +99,4 @@ Double-thanks for coming over. Here is a list of things that might catch your at
 
 [Get in touch](mailto:hello@hygge.work)
 
-</p>
-</details>
+{{</details>}}
