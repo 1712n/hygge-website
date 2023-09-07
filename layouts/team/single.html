@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+{{ partial "header/header" . }}
+
+{{ if .Content }}
+  <div class="entry">
+    {{ partial "entry/content" . }}
+  </div>
+{{ end }}
+
+<ul class="authors">
+  {{ range site.Data.authors }}
+    <li class="author">
+      {{ .name.display }}
+    </li>
+  {{ end }}
+</ul>
+
+{{ partial "footer" . }}
