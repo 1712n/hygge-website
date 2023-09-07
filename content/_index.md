@@ -17,7 +17,7 @@ It's an open-source GitHub-based book of knowledge for distributed teams that co
 
 There are lots of ways you can use Hygge Workbook:
 
-{{<details "#### ► 1. As a candidate.">}}
+{{<details "#### 1. As a candidate.">}}
 
 Some companies use Hygge work approach, and Hygge Workbook serves as a company handbook for them. If you'd like to discover more about this method of operating and see if it's a fit for you, start with these articles:
 
@@ -33,7 +33,7 @@ Some companies use Hygge work approach, and Hygge Workbook serves as a company h
 
 {{</details>}}
 
-{{<details "#### ► 2. As someone working in a company using Hygge Work approach.">}}
+{{<details "#### 2. As someone working in a company using Hygge Work approach.">}}
 
 If you're already a part of Hygge Company, Hygge Work serves as a guiding book to navigate your work and keeping the right balance. Our best articles:
 
@@ -51,7 +51,7 @@ If you're already a part of Hygge Company, Hygge Work serves as a guiding book t
 
 {{</details>}}
 
-{{<details "#### ► 3. As a remote team lead.">}}
+{{<details "#### 3. As a remote team lead.">}}
 
 Leading a distributed team is a virtue. The good news is that everyone can learn it! Take a look at the following pieces to help you in your journey:
 
@@ -69,7 +69,7 @@ Leading a distributed team is a virtue. The good news is that everyone can learn
 
 {{</details>}}
 
-{{<details "#### ► 4. As a People Ops professional.">}}
+{{<details "#### 4. As a People Ops professional.">}}
 
 There are a number of solid HR-practices that we developed for distributed teams. Take a look to get insired:
 
@@ -89,7 +89,7 @@ There are a number of solid HR-practices that we developed for distributed teams
 
 {{</details>}}
 
-{{<details "#### ► 5. As a curious passerby.">}}
+{{<details "#### 5. As a curious passerby.">}}
 
 Double-thanks for coming over. Here is a list of things that might catch your attention:
 

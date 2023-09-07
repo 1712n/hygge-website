@@ -24,7 +24,7 @@ Adaptation to new team culture, new tools, and new people can be overwhelming. T
 
 Below are a few issue and email templates of a personal project for a mid-size org. Feel free to add/remove tasks based on the size of your team and your needs.
 
-{{<details  "#### ► Readme letter">}}
+{{<details "#### Readme letter">}}
 
 > # Welcome to Hygge Company!
 >
@@ -44,7 +44,7 @@ Below are a few issue and email templates of a personal project for a mid-size o
 >
 > {{</details>}}
 
-{{<details  "#### ► Welcome Kit">}}
+{{<details "#### Welcome Kit">}}
 
 ```
 Welcome to the team! 🎊  This issue is a starting point of your journey with Hygge Company. Below are a few tasks to help your integration: get to know more about us through our Handbook, understand our work processes by learning how to use GitHub, and meet us in person! Complete them in any order, and keep in mind that you are not alone on this road!
