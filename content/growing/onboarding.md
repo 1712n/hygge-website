@@ -33,7 +33,7 @@ The following teams are usually involved in the onboarding process:
 
 The onboarding process starts after the contract is signed. An onboarding issue is created to ping all relevant teams and trigger required processes to get the new team member settled in. Below are a few issue and email templates for a mid-size org, feel free to add/remove tasks based on the size of your team and your needs.
 
-{{<details  "#### ► Onboarding issue">}}
+{{<details "#### Onboarding issue">}}
 
 ```
 Link to the Candidate Processing issue:
@@ -69,7 +69,7 @@ Admin or IAM Team:
 
 {{</details>}}
 
-{{<details  "#### ► Welcome Email">}}
+{{<details "#### Welcome Email">}}
 
 > Hello, !
 >
@@ -84,7 +84,7 @@ Admin or IAM Team:
 > Feel free to reach out to us for any assistance you may need with the onboarding process.
 > {{</details>}}
 
-{{<details  "#### ► Credentials Email">}}
+{{<details "#### Credentials Email">}}
 
 > Hello ,
 >

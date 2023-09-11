@@ -1,0 +1,30 @@
+details {
+  line-height: 1.5;
+
+  summary {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid black;
+
+    &:after {
+      display: inline-block;
+      content: "►";
+      text-align: center;
+    }
+  }
+
+  &[open] {
+    margin-bottom: 1.5em;
+
+    summary {
+      &:after {
+        content: "▼";
+      }
+    }
+  }
+
+}

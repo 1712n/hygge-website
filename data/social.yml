@@ -1,0 +1,16 @@
+---
+email:
+  name: Email
+  prefix: "mailto:"
+
+github:
+  name: GitHub
+  prefix: "https://github.com/"
+
+twitter:
+  name: Twitter
+  prefix: "https://twitter.com/"
+
+linkedin:
+  name: LinkedIn
+  prefix: "https://linkedin.com/"

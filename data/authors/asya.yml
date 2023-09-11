@@ -1,0 +1,16 @@
+id: "asya"
+
+# email:
+#   username: "asya"
+#   host: "inca.digital"
+
+name:
+  display: "Asya Isakova"
+
+social:
+  # email: ""
+  # twitter: ""
+  # linkedin: ""
+  github: "asyaisakova"
+
+description: "Organizational psychologist & people advocate. Uses organizational sciences and a bit of magic to make remote teams happy."

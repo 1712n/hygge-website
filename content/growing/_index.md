@@ -24,17 +24,3 @@ Typically, a selection process includes:
 2. [Challenge](https://hygge.work/growing/challenge-program/) Submission
 3. Up to three interviews
 4. Hiring decision and [onboarding](https://hygge.work/growing/onboarding/)
-
-# Hygge Team 🧦☕️
-
-![Hygge](/img/growing/Hygge.jpg)
-
-When a team starts growing, you need people to keep everyone cozy and well. This is particularly important in the fully-remote work settings. Hygge Team takes care of people starting from their first contact with the company and supporting every team member on her journey with us. Hygge Team is also tending to a number of internal products, including hiring pipeline, external and internal employer brand, workations, workshops, etc.
-
-Hygge Team is always there to create warm atmosphere and moments of joy at work.
-You can always come to the team if:
-
-- you would like to know more about the team's culture, past, present, and future
-- you need support with your professional or personal milestones
-- you know how to bring something _hyggelig_ to the team 🧦
-- you just need a chat ☕️
