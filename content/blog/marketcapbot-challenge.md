@@ -13,7 +13,7 @@ cover:
 
 Task-performance based selection is the future for tech companies. That is why [Hygge companies](https://hygge.work/#hygge-company) use the [Challenge Program](https://hygge.work/growing/challenge-program/) to provide candidates an opportunity to demonstrate their skills in real-life scenarios and to experience what their work might be like before making the decision to stick with the company.
 
-Some issues in the [Challenge Program](https://hygge.work/growing/challenge-program/) have the [`bounty` label](https://github.com/1712n/challenge/issues?q=label%3A%22bounty+-+paid%22+). These are one-off paid tasks that usually require advanced skills. How do Hygge companies come up with these tasks? How do participants react to these tasks, and how does it affect selection? We spoke to the creators of [“MarketCapBot - Automate posting on Twitter”](https://github.com/1712n/challenge/issues/86) [Sofia](https://github.com/sofiasedlova) and [Aleksei](https://github.com/darknessest) to find the answers.
+Some issues in the [Challenge Program](https://hygge.work/growing/challenge-program/) have the [`bounty` label](https://github.com/1712n/dn-institute/labels/%F0%9F%92%B0%20bounty). These are one-off paid tasks that usually require advanced skills. How do Hygge companies come up with these tasks? How do participants react to these tasks, and how does it affect selection? We spoke to the creators of [“MarketCapBot - Automate posting on Twitter”](https://github.com/1712n/challenge/issues/86) [Sofia](https://github.com/sofiasedlova) and [Aleksei](https://github.com/darknessest) to find the answers.
 
 ## Creating a Challenge
 
