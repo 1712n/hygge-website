@@ -8,6 +8,7 @@ cover:
   image:
   style: full
 ---
+
 ## Welcome to Hygge Workbook!
 
 Hygge Workbook an open-source GitHub-based book of knowledge for distributed teams that covers various aspects of the new way of working, from creating and managing atomic work tasks to surviving the mental health marathon. None of this is purely theoretical. We’ve studied successful remote projects and personally experimented with these ideas well before COVID changed the work culture landscape.

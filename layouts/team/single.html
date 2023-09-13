@@ -8,6 +8,7 @@
   </div>
 {{ end }}
 
+
 <div class="container">
   <ul class="authors">
     {{ range site.Data.authors }}
@@ -17,7 +18,11 @@
           {{ with .social }}
             {{ range $key, $value := . }}
               {{ $platform := index site.Data.social $key }}
-              <a class="{{ $key }}" title="{{ $platform.name }}" href="{{ (print $platform.prefix $value) | relLangURL }}">
+              <a
+                class="{{ $key }}"
+                title="{{ $platform.name }}"
+                href="{{ (print $platform.prefix $value) | relLangURL }}"
+              >
                 {{- partial "svg/icon" $key -}}
               </a>
             {{ end }}
