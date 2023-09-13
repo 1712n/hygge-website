@@ -1,8 +1,14 @@
-<link rel='icon' href='{{ ( or .Site.Params.assets.favicon "favicon.ico" ) | relURL }}'>
-<link rel='stylesheet' href='{{ print "assets/css/" .Site.Data.assets.main.css | relURL  }}'>
+<link
+  rel="icon"
+  href="{{ ( or .Site.Params.assets.favicon "favicon.ico" ) | relURL }}"
+/>
+<link
+  rel="stylesheet"
+  href="{{ print "assets/css/" .Site.Data.assets.main.css | relURL }}"
+/>
 
 {{- $customStyle := resources.Get "scss/custom.scss" | toCSS (dict "enableSourceMap" "true") | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $customStyle.RelPermalink }}">
+<link rel="stylesheet" href="{{ $customStyle.RelPermalink }}" />
 
 {{- partial "head/css" . -}}
 
