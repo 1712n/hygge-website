@@ -6,6 +6,8 @@ tags:
   - communication
   - leading
   - feedback
+cover:
+  image: /img/posts/embracing-feedback.png
 ---
 
 This might be counterintuitive, but the receiver is in charge of feedback. They’re the one who decides what to listen to and how to make sense of it. That is why it is important for everyone to learn how to react to feedback. When you’re receiving praise, that’s usually easy; however, it might be hard to hold on your knee-jerk reaction and reject criticism. Try to do the following:

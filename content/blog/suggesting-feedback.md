@@ -6,6 +6,8 @@ tags:
   - communication
   - leading
   - feedback
+cover:
+  image: /img/posts/suggesting-feedback.png
 ---
 
 insecure sharing corrective feedback. This is because people are scared of damaging the relationship, being wrong, losing face or hurting concerned individual. [Studies](https://qz.com/work/1388077/) prove that corrective feedback is easier to embrace if you are in a good self-regulatory state and not tired or upset. Candidness is a crucial part of building trust. If you are able to notice something valuable that a person could improve on, it means you care.
