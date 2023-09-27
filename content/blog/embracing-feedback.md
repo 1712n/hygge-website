@@ -1,6 +1,6 @@
 ---
 title: "Embracing feedback"
-authors: ["asya"]
+authors: ["asya, yana"]
 date: 2023-08-01T12:00:00Z
 tags:
   - communication
