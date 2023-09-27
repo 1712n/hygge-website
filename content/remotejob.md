@@ -5,9 +5,9 @@ date: 2023-09-27T12:00:00Z
 tags:
   - tools
 cover:
-  
 ---
-Are you on a quest to discover the remote job of your dreams? Look no further! In this curated list of job-seeking websites, we've gathered the best platforms to help you land those killer remote gigs. Let's dive in and discover the opportunities waiting for you!  
+
+Are you on a quest to discover the remote job of your dreams? Look no further! In this curated list of job-seeking websites, we've gathered the best platforms to help you land those killer remote gigs. Let's dive in and discover the opportunities waiting for you!
 
 - [300 Global Companies with Eastern European roots](https://airtable.com/appd3bITXfTJ1Dg81/shrIzetdwN2GQZ5dJ/tbl6vqeIRroSvCI7a/viwmsXkTvv0qezdvj)
 - [WorkingNomads](https://www.workingnomads.com/jobs)
