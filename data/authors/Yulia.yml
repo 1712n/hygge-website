@@ -1,1 +1,16 @@
+id: "yulia"
 
+# email:
+#   username: "yulia"
+#   host: "inca.digital"
+
+name:
+  display: "Yulia Kondrashova"
+
+social:
+  # email: ""
+  # twitter: ""
+  # linkedin: "https://www.linkedin.com/in/julia-kondrashova"
+  github: ""
+
+description: "Marketing specialist passionate about the power of flexible remote work and dedicated to embracing the Hygge Culture."
