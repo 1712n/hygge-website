@@ -14,7 +14,7 @@ insecure sharing corrective feedback. This is because people are scared of damag
 
 Below are some tips to make a feedback flow:
 
-1.  Evaluate the **work** and not the person. Do not use absolutes like: "You were wrong", " You always...", "You have a problem here". Instead, provide an example such as: "This task was not completed within the agreed upon time and therefore we failed to provide the report on time". Use the Situation-Behavior-Impact (S-B-I) model:
+1.  Evaluate the **work** and not the person. Do not use absolutes like: "You were wrong", "You always...", "You have a problem here". Instead, provide an example such as: "This task was not completed within the agreed upon time and therefore we failed to provide the report on time". Use the Situation-Behavior-Impact (S-B-I) model:
 
 - **Situation:** Define the when and where by attaching in time and place.
 - **Behavior:** Describe the observable behavior and how it was applied.

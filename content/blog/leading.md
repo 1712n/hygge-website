@@ -24,7 +24,9 @@ Feedback is like a mirror. It reflects your strengths and weaknesses and helps y
 Here are some tips for sharing productive feedback:
 The best strategy is to balance positive and corrective feedback.
 Focus more on progress than on the goal itself. Every goal is a complex milestone whose completion is somewhere far on the horizon. Not seeing progress toward a goal can bring anxiety and self-doubt to your team. Instead, celebrate every step toward your employee’s goal because every little win counts.
-Recognition
+
+### Recognition
+
 Recognition is like a pat on the back. It makes you feel valued and appreciated for your hard work. And who doesn’t love a little appreciation? Recognition is equally crucial in fostering a culture of growth and excellence. Providing personalized recognition to your team members shows them that you understand their goals, motivations, and challenges, and value their hard work.
 
 [Research](https://hbr.org/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost) shows that symbolic awards, such as congratulatory cards and public recognition, can boost motivation, retention, and performance. But here’s the catch: It has to be genuine. Insincere recognition can actually do more harm than good. One size doesn’t fit all when it comes to recognition. Take time to understand your team members’ preferences and what motivates them, and rely on facts when recognizing the achievements of your team members. Use [the same models](https://hygge.work/communication/feedback/#suggesting-feedback) that you use for any other type of feedback.

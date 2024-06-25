@@ -71,7 +71,7 @@ Leading a distributed team is a virtue. The good news is that everyone can learn
 
 {{<details "##### 4. As a People Ops professional.">}}
 
-There are a number of solid HR-practices that we developed for distributed teams. Take a look to get insired:
+There are a number of solid HR-practices that we developed for distributed teams. Take a look to get inspired:
 
 [Hiring in Hygge Companies](https://hygge.work/growing/)
 

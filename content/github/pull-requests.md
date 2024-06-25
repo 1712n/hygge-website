@@ -48,7 +48,7 @@ Let’s imagine you read a wiki and disagree with a policy or a process. Being a
 
 ### Initiating your pull request
 
-Create a branch. Do it directly from the issue or [from the code page.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository). Give your branch a distinctive name, and you can start making changes!
+Create a branch. Do it directly from the issue or [from the code page.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) Give your branch a distinctive name, and you can start making changes!
 
 ![Making a branch](/img/pull-requests/create-a-branch.gif)
 

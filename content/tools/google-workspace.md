@@ -57,7 +57,7 @@ You will always have more work than time in your life, so be smart with your sch
 
 # Google Docs
 
-While [GitHub](https://hygge.work/github/) is a perfect tool to organize your work, we use Google Docs, Sheets and other Workspace functionality for selected tasks. It's a great tool for remote and asynchronous collaboraion if you follow these easy steps working with your documents:
+While [GitHub](https://hygge.work/github/) is a perfect tool to organize your work, we use Google Docs, Sheets and other Workspace functionality for selected tasks. It's a great tool for remote and asynchronous collaboration if you follow these easy steps working with your documents:
 
 - Avoid working in offline Word or Excel files and uploading/attaching them to emails and GitHub issues later. Those are difficult to find and collaborate on. Attach the link to an online Google document to your issue on GitHub;
 - Don't Work on documents privately to share them from your personal Google Drive space. Instead, place them into relevant [Google Team Drives](https://drive.google.com/drive/u/0/shared-drives). This will allow you to share your documents with appropriate team members and maintain control over the access.
