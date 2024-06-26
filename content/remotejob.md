@@ -18,6 +18,6 @@ Are you on a quest to discover the remote job of your dreams? Look no further! I
 - [GeekJob](https://geekjob.ru/)
 - [Weworkremotely](https://weworkremotely.com/)
 - [FlexJobs](https://www.flexjobs.com/)
-- [Remotive](https://remotive.com/)https://remotive.com/
-- [Tealhq](https://www.tealhq.com/jobs)https://www.tealhq.com/jobs
-- [JustRemote](https://justremote.co/)https://justremote.co/
+- [Remotive](https://remotive.com/)
+- [Tealhq](https://www.tealhq.com/jobs)
+- [JustRemote](https://justremote.co/)

@@ -63,4 +63,4 @@ Rule of thumb: All in all, you should **feel better** after the session. Of all 
 
 There are many misconceptions of psychotherapy. To get reliable information about who needs counseling, how to choose your psychotherapist and what to expect in this process, consult [this comprehensive article](https://www.apa.org/topics/psychotherapy/understanding) the American Psychological Association.
 
-A healthy sisu mindset is a can-do, will-try, courageous, and not-afraid-of-failling approach to life. When balancing your daily, remote, and mental sisu, you can live your dream life! Sisu it up.
+A healthy sisu mindset is a can-do, will-try, courageous, and not-afraid-of-failing approach to life. When balancing your daily, remote, and mental sisu, you can live your dream life! Sisu it up.

@@ -19,7 +19,7 @@ tags:
 
 ## Have trouble making a plan? Try Goal Breakdown
 
-Having a big goal with many time-consuming steps can be very stressful or overwhelming. The bugger your destination, the higher the chance you will start "tomorrow" or "next week." But those times never seem to come! Learning to break your goals into atomic tasks will help you overcome the stress and procrastination they create.
+Having a big goal with many time-consuming steps can be very stressful or overwhelming. The bigger your destination, the higher the chance you will start "tomorrow" or "next week." But those times never seem to come! Learning to break your goals into atomic tasks will help you overcome the stress and procrastination they create.
 
 Here are some tips for breaking goals into tasks:
 
