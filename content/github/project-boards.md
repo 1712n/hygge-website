@@ -21,16 +21,18 @@ Projects are a great way to manage GitHub workflow from a high-level perspective
 
 #### Key Features of GitHub Projects
 
-1. **Centralized Management**: 
+1. **Centralized Management**:
+
    - Create, update, comment on, and close all your issues from inside a single project instead of navigating through multiple repositories.
    - Keep your ideas for future tasks by creating draft issues and leaving notes in a custom text field.
    - [Bulk edit](https://github.blog/changelog/2023-04-06-github-issues-projects-april-6th-update/#t-rex-bulk-editing-in-tables) items in a table view by dragging a cell's contents.
 
-2. **Task Management**: 
+2. **Task Management**:
+
    - Use a simple Kanban board for native task management by dragging and dropping tasks from one status (or any custom field) to another, which is ideal for personal boards.
    - Leverage [custom fields](https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields) and advanced filtering, grouping, and slicing to manage a team’s work or a complex product launch.
 
-3. **Tracking and Updates**: 
+3. **Tracking and Updates**:
    - Track deadlines on a [Roadmap](https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/) view by filling in due date custom fields.
    - Let your teammates always know the [status](https://github.blog/changelog/2024-01-18-github-issues-projects-project-status-updates-issues-side-panel/#green_circle-project-status-updates) of your project and the latest high-level updates.
 
@@ -38,8 +40,8 @@ Projects are a great way to manage GitHub workflow from a high-level perspective
 
 1. [Create](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects#creating-a-project) a Project by selecting one of GitHub’s or your organization’s templates that fits your use case.
 2. [Add](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project#searching-for-an-issue-or-pull-request) existing issues and PRs.
-3. [Automate](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/adding-items-automatically) the addition of future items from up to 5 repositories. If this limit is insufficient, consider creating issues directly in the project, or if you create them from a repository, assign a project manually. 
-4. [Customize](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-table-layout) your views if needed: hide or delete unnecessary fields, set up filters and grouping. Remember to save your updates to the view (a blue dot signifies unsaved changes)! 
+3. [Automate](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/adding-items-automatically) the addition of future items from up to 5 repositories. If this limit is insufficient, consider creating issues directly in the project, or if you create them from a repository, assign a project manually.
+4. [Customize](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-table-layout) your views if needed: hide or delete unnecessary fields, set up filters and grouping. Remember to save your updates to the view (a blue dot signifies unsaved changes)!
 5. [Add](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-access-to-your-projects#managing-access-for-teams-and-individual-members-of-your-organization) collaborators with the necessary permission levels in settings.
 
 ### Useful Tips and Ideas
@@ -61,6 +63,7 @@ If you are looking for more a complex example, huge open source projects like [A
 ![Example3](/img/project-boards/adobe.png)
 
 #### Select What You See:
+
 - Hide closed issues and PRs while keeping them for future reference: `-status:closed`
 - Show items from specific repos or milestones: `repo:myrepo milestone:mymilestone`
 - Create a view where each team member sees only items assigned to them: `assignee:@me reviewers:@me`
@@ -68,9 +71,3 @@ If you are looking for more a complex example, huge open source projects like [A
 - Track issues that were recently updated: `-last-updated:5days`
 
 For more filtering options, refer to the [docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/filtering-projects).
-
-
-
-
-
-
