@@ -12,6 +12,8 @@ tags:
   - collaboration
   - async
   - guru
+cover:
+  image: /img/tools/pull-request.png
 ---
 
 ![Pull request](/img/tools/pull-request.png)
