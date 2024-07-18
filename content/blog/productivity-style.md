@@ -17,7 +17,7 @@ Your method of planning and divvying up your effort among various goals, activit
 
 Let's delve into the realm of four distinctive productivity styles: Prioritizer, Planner, Arranger, and Visualizer. Each of these corresponds to a habitual pattern or preferred approach to perceiving, processing, and managing information, which in turn guides your behavior. To discover which productivity style resonates most with you, delve into the descriptions below and choose the one that aligns best with your habits.
 
-![Define Your Productivity Style?](/img/project-boards/in-text-productivity-style.png)
+![Define Your Productivity Style?](/img/posts/in-text-productivity-style.png)
 
 ### Prioritizer
 
