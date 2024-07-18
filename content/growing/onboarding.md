@@ -11,9 +11,9 @@ tags:
   - onboarding
   - templates
   - "HR processes"
+cover:
+  image: /img/growing/onboarding.png
 ---
-
-![Onboarding](/img/growing/onboarding.png)
 
 The first few months are crucial to the success of the new hire. The newcomer will either buy in by investing their time and attention or treat the company as a paycheck printer, working hard enough not to get fired.
 

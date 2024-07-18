@@ -12,9 +12,9 @@ tags:
   - "first steps"
   - leading
   - "HR processes"
+cover:
+  image: /img/communication/async.png
 ---
-
-![Async](/img/communication/async.png)
 
 To get things done, Hygge Companies rely on detailed documentation and atomic iterations that are visible to everyone through issue trackers like GitHub. Mastering this asynchronous workflow is vital to avoiding dysfunction. This is why Hygge companies prefer [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) to chats and video calls. This also means that employees need to ensure that all conclusions made during offline conversations are recorded in GitHub, so that everyone at any time can follow your thought process.
 

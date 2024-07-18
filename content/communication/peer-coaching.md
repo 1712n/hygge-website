@@ -12,9 +12,9 @@ tags:
   - leading
   - "HR processes"
   - guru
+cover:
+  image: /img/communication/peer-coaching.png
 ---
-
-![Peer coaching](/img/communication/peer-coaching.png)
 
 Peer coaching is a form of learning and development where two team-members work together to reflect on current practices; expand, refine, and build new skills; share ideas; teach one another; or solve problems. It's used in some Hygge Companies to improve internal communication and foster personal development of the team-members. These conversations rely on feedback giving and receiving skills.
 

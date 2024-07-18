@@ -16,8 +16,6 @@ cover:
   image: /img/tools/pull-request.png
 ---
 
-![Pull request](/img/tools/pull-request.png)
-
 The pinnacle of mastering the async process is communicating through pull requests.
 
 **What is a pull request about?**

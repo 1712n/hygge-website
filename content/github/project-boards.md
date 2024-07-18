@@ -15,8 +15,6 @@ cover:
   image: /img/github/project-boards.png
 ---
 
-![Project Boards](/img/github/project-boards.png)
-
 Having a helicopter view of your workflow offers numerous advantages. While focusing on individual tasks is important, the ability to step back and see the bigger picture allows for better strategic planning, resource allocation, and overall project management. This broader perspective not only enhances team efficiency but also contributes to personal professional growth.
 
 Projects are a great way to manage GitHub workflow from a high-level perspective. They allow for comprehensive project management and task tracking, making it easier to oversee progress and collaborate effectively.

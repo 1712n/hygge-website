@@ -12,9 +12,9 @@ tags:
   - GitHub
   - leading
   - "first steps"
+cover:
+  image: /img/github/milestones.png
 ---
-
-![Milestones](/img/github/milestones.png)
 
 Milestone is a [SMART](https://en.wikipedia.org/wiki/SMART_criteria) goal, that can be split into individual issues for steps and closed at the end of a sprint. It is not a place to collect thematically similar issues (project boards allow to organize your work in many different ways). Ideally, every milestone should be:
 

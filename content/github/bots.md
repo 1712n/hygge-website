@@ -11,9 +11,9 @@ tags:
   - tools
   - GitHub
   - guru
+cover:
+  image: /img/github/bots.png
 ---
-
-![Bots](/img/github/bots.png)
 
 It's always a good idea to automate managerial tasks. In your issues, you might encounter several bots that track GitHub's policies compliance.
 

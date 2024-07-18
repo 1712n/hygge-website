@@ -10,9 +10,9 @@ tags:
   - "HR processes"
   - leading
   - guru
+cover:
+  image: /img/growing/career-development.png
 ---
-
-![career-development](/img/growing/career-development.png)
 
 Career development often implies performance surveys. However, there is a rule of a performance survey in Hygge companies: you don't talk about the performance survey. Besides being a stressful experience for the employee being reviewed, filling out performance surveys is often an uncomfortable process for the reviewers and the managers who evaluate the results. Performance reviews often suffer from reviewer's bias and might also lead to employee's focus shift towards gaming the metrics instead of getting the job done. There are other ways to package the performance survey that address these problems without taking anything away from the value of collected feedback. Challenge your imagination and use less threatening words that target employee's growth, team integration, and well-being: Strengths and Opportunities Assessment, Team Member Focus Survey, Integration and Growth Check-up, or simply Hygge Work Questions.
 

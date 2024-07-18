@@ -11,9 +11,9 @@ tags:
   - communication
   - leading
   - "first steps"
+cover:
+  image: /img/communication/staying-social.png
 ---
-
-![Staying social](/img/communication/staying-social.png)
 
 Distributed teams need to work together and communicate intensively. Work is always easier when you know the person you’re communicating with. That’s why Hygge Companies not only encourage personal interactions during team calls, meetups, and workations but also organize Hygge Roulette to foster interpersonal communication.
 
