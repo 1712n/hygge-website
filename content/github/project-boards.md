@@ -11,6 +11,8 @@ tags:
   - tools
   - GitHub
   - leading
+cover:
+  image: /img/github/project-boards.png
 ---
 
 ![Project Boards](/img/github/project-boards.png)
