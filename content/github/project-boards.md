@@ -52,13 +52,13 @@ Configure the auto-add workflow to automatically add new items as they are creat
 
 #### Make a Project Your Own
 
-GitHub enables you to add custom fields to your project view. Besides the productivity classics (priority, status, size), your project can benefit from start dates, due dates, text notes, single select, or iteration fields. Don't be afraid to use creative names or add emojis – the personal touch can help with motivation.
+GitHub enables you to add custom fields to your project view. Besides the productivity classics (priority, status, size), your project can benefit from start dates, due dates, text notes, single select, or iteration fields. Don't be afraid to use creative names or add emojis – this personal touch can help with motivation.
 
 Take a look at this example of a customized minimal board layout. It's straightforward and easy to maintain, as it merges the concepts of status and priority:
 
 ![Example](/img/project-boards/yana-dash.png)
 
-If you are looking for more a complex example, huge open source projects like [Adobe's](https://github.com/orgs/adobe/projects/19/views/18) will provide you some inspiration. This dashboard is perfectly organized with a roadmap displaying the status of epics, milestones, and issues. While it offers vast workflow insights, it also requires significant maintenance.
+If you are looking for a more complex example, huge open source projects like the [one from Adobe](https://github.com/orgs/adobe/projects/19/views/18) will provide you some inspiration. This dashboard is perfectly organized with a roadmap displaying the status of epics, milestones, and issues. While it offers vast workflow insights, it also requires significant maintenance.
 
 ![Example3](/img/project-boards/adobe.png)
 
@@ -70,4 +70,4 @@ If you are looking for more a complex example, huge open source projects like [A
 - Identify stale items: `last-updated:10days`
 - Track issues that were recently updated: `-last-updated:5days`
 
-For more filtering options, refer to the [docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/filtering-projects).
+For more filtering options, refer to [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/filtering-projects).
