@@ -11,9 +11,9 @@ tags:
   - iterations
   - leading
   - "first steps"
+cover:
+  image: /img/remote-work/planning.png
 ---
-
-![Planning](/img/remote-work/planning.png)
 
 **Have a plan.** However bad it might be. It's much better to come up with a numbered steps plan and ask people to help you to improve it than make them guess or create one for you.
 

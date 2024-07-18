@@ -11,9 +11,9 @@ tags:
   - leading
   - "HR processes"
   - guru
+cover:
+  image: /img/growing/buddy.png
 ---
-
-![Buddy](/img/growing/buddy.png)
 
 Visiting another country or hiking an unknown trail all by yourself definitely has its advantages. But if you want to get to know all the local tips and tricks, discover the best view-points and learn fast and safe ways up, you look for local guides.
 

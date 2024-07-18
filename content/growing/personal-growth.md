@@ -11,9 +11,9 @@ tags:
   - leading
   - "HR processes"
   - "first steps"
+cover:
+  image: /img/growing/growth.png
 ---
-
-![Growth](/img/growing/growth.png)
 
 Hygge Companies hire people not only because they are useful now, but also because they believe in their potential.
 

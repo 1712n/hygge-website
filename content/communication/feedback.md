@@ -12,9 +12,9 @@ tags:
   - leading
   - "HR processes"
   - guru
+cover:
+  image: /img/communication/feedback.png
 ---
-
-![Feedback](/img/communication/feedback.png)
 
 # The importance of feedback
 

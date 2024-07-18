@@ -11,9 +11,9 @@ tags:
   - "HR processes"
   - guru
   - "Challenge program"
+cover:
+  image: /img/growing/challenge.png
 ---
-
-![Challenge](/img/growing/challenge.png)
 
 The challenge program is a perfect tool for discovering hidden talent by autonomously vetting potential employees and interns at the start of the hiring process. The program consists of issues that can be solved without any access to company resources and require the participants to manage their own work. Such projects give interested individuals a chance to prove themselves, learn a bit about the company and products, and produce useful results in the process. In addition, it allows companies to suggest a better fit for candidates based on their challenge results.
 

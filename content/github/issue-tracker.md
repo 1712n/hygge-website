@@ -11,9 +11,9 @@ tags:
   - tools
   - GitHub
   - "first steps"
+cover:
+  image: /img/github/issue-tracker.png
 ---
-
-![Issue tracker](/img/github/issue-tracker.png)
 
 There are plenty of [Issue Trackers](https://en.wikipedia.org/wiki/Issue_tracking_system) and [Knowledge Management Systems](https://en.wikipedia.org/wiki/Knowledge_management_software) out there to choose from. For the purpose of simplicity, we'll use GitHub as an example of both. Anyone can set up a free personal (and even an organization) account and start building their Hygge Company using GitHub issue tracker and repositories for free!
 

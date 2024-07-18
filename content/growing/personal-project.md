@@ -9,9 +9,9 @@ weight: -150
 tags:
   - onboarding
   - templates
+cover:
+  image: /img/growing/personal-project.png
 ---
-
-![Personal project](/img/growing/personal-project.png)
 
 Every newcomer's journey at Hygge Company starts with a personal project. Personal project is a private space to set and track personal milestones. It can take different forms - personal repository or a dashboard, depends on an issue tracker that Hygge company uses.
 

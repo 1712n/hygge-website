@@ -7,9 +7,9 @@ menu:
 weight: -150
 tags:
   - guru
+cover:
+  image: /img/sisu/sisu.png
 ---
-
-![Sisu](/img/sisu/sisu.png)
 
 Hygge Companies hire certain types of people: [the selection process](https://hygge.work/growing/) is designed to spot talented people who are passionate about what they do and ready to hustle to achieve their goals, both personal and professional.
 

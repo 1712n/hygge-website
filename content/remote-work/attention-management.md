@@ -11,9 +11,9 @@ tags:
   - leading
   - "HR processes"
   - guru
+cover:
+  image: /img/remote-work/attention.png
 ---
-
-![Attention management](/img/remote-work/attention.png)
 
 There's no one to tell you how to organize your day and prioritize important things. Try [attention management instead of time management](https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html) and use [time-saving tools and shortcuts](https://www.youtube.com/watch?v=FS1mnISoG7U).
 
