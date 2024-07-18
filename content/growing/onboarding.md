@@ -15,7 +15,6 @@ cover:
   image: /img/growing/onboarding.png
 ---
 
-
 The first few months are crucial to the success of the new hire. The newcomer will either buy in by investing their time and attention or treat the company as a paycheck printer, working hard enough not to get fired.
 
 [Buddies](https://hygge.work/growing/buddy-guidelines/) help to make onboarding experience engaging, yet well-organized and structured. Work-related information, served in tiny bits in the issue-tracker, facilitates the smooth transition to work culture of a Hygge company.
