@@ -1,7 +1,7 @@
 ---
 title: "Level Up Your LinkedIn Game"
 authors: ["yana"]
-date: 2023-0-27T12:00:00Z
+date: 2023-02-27T12:00:00Z
 tags:
   - planning
   - tools
