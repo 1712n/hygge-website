@@ -77,4 +77,4 @@ The easiest way to communicate on GitHub is to make a ping directly in the issue
 
 **Tip:** In case you were mentioned in an issue, but you no longer want notifications to pile up on the corporate email box, **you can unsubscribe**. Simply go to an issue - on the right sidebar you will find `unsubscribe` button.
 
-Ready to take your GitHub work to the next level and join the developer club? [Read about pull requests](/github/milestones).
+Ready to take your GitHub work to the next level and join the developer club? [Read about pull requests](/github/pull-requests).
