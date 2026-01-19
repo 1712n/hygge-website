@@ -29,7 +29,7 @@ Focus more on progress than on the goal itself. Every goal is a complex mileston
 
 Recognition is like a pat on the back. It makes you feel valued and appreciated for your hard work. And who doesn’t love a little appreciation? Recognition is equally crucial in fostering a culture of growth and excellence. Providing personalized recognition to your team members shows them that you understand their goals, motivations, and challenges, and value their hard work.
 
-[Research](https://hbr.org/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost) shows that symbolic awards, such as congratulatory cards and public recognition, can boost motivation, retention, and performance. But here’s the catch: It has to be genuine. Insincere recognition can actually do more harm than good. One size doesn’t fit all when it comes to recognition. Take time to understand your team members’ preferences and what motivates them, and rely on facts when recognizing the achievements of your team members. Use [the same models](https://hygge.work/communication/feedback/#suggesting-feedback) that you use for any other type of feedback.
+[Research](https://web.archive.org/web/20210428160607/https://hbr.org/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost) shows that symbolic awards, such as congratulatory cards and public recognition, can boost motivation, retention, and performance. But here’s the catch: It has to be genuine. Insincere recognition can actually do more harm than good. One size doesn’t fit all when it comes to recognition. Take time to understand your team members’ preferences and what motivates them, and rely on facts when recognizing the achievements of your team members. Use [the same models](https://hygge.work/communication/feedback/#suggesting-feedback) that you use for any other type of feedback.
 
 Building competency is all about creating a culture of growth and excellence. Encouraging cooperation and collaboration, and providing regular feedback, recognition, and encouragement—it all adds up. So, let’s build a community that values progress, recognizes hard work, and fosters growth. When we all grow together, we all win.
 
@@ -48,7 +48,7 @@ The following is a list of best practices that you might use starting today to f
 - Create a clear vision of the future and the roles of individual contributions in this picture.
 - Reward your team to acknowledge employee competence.
 
-If you’d like to create a culture of autonomy in your team, take a look at the comprehensive [independence empowering strategies guide](https://hbr.org/2023/03/5-strategies-to-empower-employees-to-make-decisions).
+If you’d like to create a culture of autonomy in your team, take a look at the comprehensive [independence empowering strategies guide](https://web.archive.org/web/20230320163706/https://hbr.org/2023/03/5-strategies-to-empower-employees-to-make-decisions).
 
 ## Crafting social relations in remote teams
 
